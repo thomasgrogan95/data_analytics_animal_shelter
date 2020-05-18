@@ -1,0 +1,983 @@
+Animal_ID,Name_Intake,Found_Location,Intake_Type,Intake_Condition,Animal_Type_Intake,Sex_upon_Intake,Age_upon_Intake,Breed_Intake,Color_Intake,Sex_upon_Outcome,Age_upon_Outcome,binary_outcome,year_intake,month_intake,year_outcome,month_outcome,birth_year,birth_month,Time_In_Shelter,Neutered_Spayed_In_Shelter,percent
+A815821,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815816,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815814,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815799,Named,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815792,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815791,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815789,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Pure-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815787,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,0.41666666666666663,Pure-Breed,Mixed-Color,Unknown,0.5,1.0,2020,3,2020,3,2019,9,0.08333333333333337,No,0.14641288433382138
+A815776,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815773,Unnamed,Other (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815767,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815765,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815754,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815753,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815750,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,1.0,Pure-Breed,Mixed-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815749,Unnamed,Austin (TX),Wildlife,Injured,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815748,Unnamed,Other (TX),Stray,Injured,Cat,Intact Male,0.016438356164383564,Pure-Breed,Pure-Color,Intact Male,0.016438356164383564,1.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815747,Unnamed,Other (TX),Stray,Injured,Cat,Intact Male,0.016438356164383564,Pure-Breed,Pure-Color,Intact Male,0.016438356164383564,1.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815746,Unnamed,Other (TX),Stray,Injured,Cat,Intact Male,0.019230769230769232,Pure-Breed,Pure-Color,Intact Male,0.019230769230769232,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815745,Unnamed,Other (TX),Stray,Injured,Cat,Intact Female,0.019230769230769232,Pure-Breed,Pure-Color,Intact Female,0.019230769230769232,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815739,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,5.0,Pure-Breed,Mixed-Color,Intact Female,5.0,0.0,2020,3,2020,3,2015,3,0.0,No,0.14641288433382138
+A815735,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815729,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815721,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815716,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,3.0,Pure-Breed,Pure-Color,Intact Male,3.0,1.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A815715,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Male,0.038461538461538464,Pure-Breed,Pure-Color,Intact Male,0.038461538461538464,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815714,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Female,0.038461538461538464,Pure-Breed,Pure-Color,Intact Female,0.038461538461538464,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815708,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.75,Cross-Breed,Pure-Color,Intact Female,0.75,0.0,2020,3,2020,3,2019,6,0.0,No,0.14641288433382138
+A815688,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,4.0,Pure-Breed,Mixed-Color,Spayed Female,4.0,0.0,2020,3,2020,3,2016,3,0.0,No,0.14641288433382138
+A815686,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,5.0,Pure-Breed,Mixed-Color,Neutered Male,5.0,0.0,2020,3,2020,3,2014,8,0.0,No,0.14641288433382138
+A815679,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.008219178082191782,Pure-Breed,Mixed-Color,Intact Female,0.008219178082191782,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815676,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815673,Unnamed,Other (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815662,Named,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pure-Breed,Mixed-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,2,0.0,No,0.14641288433382138
+A815658,Unnamed,Other (TX),Wildlife,Normal,Other,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815650,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Female,0.0136986301369863,Pure-Breed,Mixed-Color,Intact Female,0.0136986301369863,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815640,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815629,Named,Austin (TX),Public Assist,Normal,Dog,Neutered Male,0.5833333333333333,Pure-Breed,Pure-Color,Neutered Male,0.5833333333333333,0.0,2020,3,2020,3,2019,8,0.0,No,0.14641288433382138
+A815621,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Female,2.0,Pure-Breed,Mixed-Color,Intact Female,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815619,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815618,Unnamed,Austin (TX),Abandoned,Normal,Dog,Intact Female,0.9166666666666666,Cross-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.08333333333333337,No,0.14641288433382138
+A815616,Unnamed,Austin (TX),Abandoned,Normal,Dog,Intact Male,0.3333333333333333,Mixed-Breed,Mixed-Color,Intact Male,0.3333333333333333,0.0,2020,3,2020,3,2019,10,0.0,No,0.14641288433382138
+A815615,Unnamed,Austin (TX),Abandoned,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Intact Female,0.25,0.0,2020,3,2020,3,2019,12,0.08333333333333334,No,0.14641288433382138
+A815614,Unnamed,Austin (TX),Abandoned,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Intact Female,0.25,0.0,2020,3,2020,3,2019,12,0.08333333333333334,No,0.14641288433382138
+A815611,Named,Austin (TX),Stray,Injured,Dog,Spayed Female,2.0,Pure-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815586,Unnamed,Austin (TX),Stray,Sick,Dog,Intact Female,0.16666666666666666,Pure-Breed,Mixed-Color,Intact Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A815575,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815572,Unnamed,Austin (TX),Public Assist,Nursing,Dog,Unknown,0.0,Pure-Breed,Mixed-Color,Unknown,0.019230769230769232,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815571,Unnamed,Austin (TX),Public Assist,Nursing,Dog,Unknown,0.0,Pure-Breed,Mixed-Color,Unknown,0.019230769230769232,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815568,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815565,Named,Other (TX),Stray,Injured,Dog,Spayed Female,14.0,Pure-Breed,Mixed-Color,Spayed Female,14.0,0.0,2020,3,2020,3,2006,3,0.0,No,0.14641288433382138
+A815558,Unnamed,Austin (TX),Wildlife,Injured,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815548,Unnamed,Austin (TX),Stray,Injured,Dog,Intact Male,1.0,Pure-Breed,Pure-Color,Intact Male,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815547,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815540,Unnamed,Austin (TX),Abandoned,Normal,Other,Unknown,1.0,Pure-Breed,Mixed-Color,Unknown,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815539,Unnamed,Austin (TX),Abandoned,Normal,Other,Unknown,1.0,Pure-Breed,Mixed-Color,Unknown,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815536,Named,Austin (TX),Public Assist,Normal,Dog,Intact Male,0.9166666666666666,Pure-Breed,Pure-Color,Intact Male,0.9166666666666666,0.0,2020,3,2020,3,2019,4,0.0,No,0.14641288433382138
+A815533,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.0,Mixed-Breed,Pure-Color,Intact Female,0.0,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815532,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.0,Mixed-Breed,Pure-Color,Intact Female,0.0,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815531,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0,Mixed-Breed,Pure-Color,Intact Male,0.0,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815530,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0,Mixed-Breed,Pure-Color,Intact Male,0.0,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815529,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0,Mixed-Breed,Pure-Color,Intact Male,0.0,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815525,Named,Austin (TX),Abandoned,Normal,Cat,Spayed Female,2.0,Mixed-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815514,Named,Austin (TX),Public Assist,Normal,Cat,Intact Male,0.9166666666666666,Pure-Breed,Pure-Color,Intact Male,0.9166666666666666,0.0,2020,3,2020,3,2019,4,0.0,No,0.14641288433382138
+A815510,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Mixed-Breed,Mixed-Color,Intact Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A815505,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,5.0,Mixed-Breed,Mixed-Color,Neutered Male,5.0,0.0,2020,3,2020,3,2014,9,0.0,No,0.14641288433382138
+A815500,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815499,Unnamed,Austin (TX),Wildlife,Injured,Other,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815492,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815488,Unnamed,Austin (TX),Abandoned,Normal,Cat,Intact Female,2.0,Mixed-Breed,Pure-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815481,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815478,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,1.0,Pure-Breed,Mixed-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815470,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815469,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815467,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,7.0,Mixed-Breed,Mixed-Color,Neutered Male,7.0,0.0,2020,3,2020,3,2013,3,0.0,No,0.14641288433382138
+A815466,Named,Austin (TX),Public Assist,Normal,Dog,Intact Female,2.0,Mixed-Breed,Mixed-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815463,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Female,0.019230769230769232,Pure-Breed,Pure-Color,Intact Female,0.038461538461538464,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815462,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Female,0.019230769230769232,Pure-Breed,Mixed-Color,Intact Female,0.038461538461538464,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815461,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Female,0.019230769230769232,Pure-Breed,Mixed-Color,Intact Female,0.038461538461538464,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815460,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Male,0.019230769230769232,Pure-Breed,Mixed-Color,Intact Male,0.038461538461538464,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815459,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Female,0.019230769230769232,Pure-Breed,Pure-Color,Intact Female,0.038461538461538464,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815458,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Female,3.0,Pure-Breed,Pure-Color,Intact Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A815457,Named,Austin (TX),Stray,Injured,Cat,Intact Female,0.25,Pure-Breed,Mixed-Color,Spayed Female,0.3333333333333333,0.0,2020,3,2020,3,2019,11,0.08333333333333331,Yes,0.33444816053511706
+A815441,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Male,0.008219178082191782,Pure-Breed,Pure-Color,Intact Male,0.008219178082191782,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815440,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Male,0.008219178082191782,Pure-Breed,Pure-Color,Intact Male,0.008219178082191782,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815439,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Male,0.008219178082191782,Pure-Breed,Pure-Color,Intact Male,0.008219178082191782,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815438,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Female,0.008219178082191782,Pure-Breed,Pure-Color,Intact Female,0.008219178082191782,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815435,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.9166666666666666,Pure-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,3,2020,3,2019,3,0.08333333333333337,Yes,0.33444816053511706
+A815429,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,6.0,Mixed-Breed,Mixed-Color,Neutered Male,6.0,0.0,2020,3,2020,3,2014,3,0.0,No,0.14641288433382138
+A815427,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,2.0,Mixed-Breed,Pure-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815424,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Pure-Color,Intact Female,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A815423,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Pure-Color,Intact Male,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A815419,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Pure-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815418,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815417,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Pure-Color,Intact Female,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A815416,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Mixed-Color,Intact Female,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A815415,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Mixed-Color,Intact Female,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A815414,Named,Other (TX),Stray,Normal,Dog,Intact Female,5.0,Pure-Breed,Mixed-Color,Spayed Female,5.0,0.0,2020,3,2020,3,2015,3,0.0,Yes,0.33444816053511706
+A815412,Named,Other (TX),Stray,Normal,Dog,Intact Female,5.0,Pure-Breed,Mixed-Color,Spayed Female,5.0,0.0,2020,3,2020,3,2015,3,0.0,Yes,0.33444816053511706
+A815411,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,2.0,Mixed-Breed,Pure-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815409,Named,Austin (TX),Stray,Normal,Cat,Neutered Male,10.0,Pure-Breed,Pure-Color,Neutered Male,10.0,0.0,2020,3,2020,3,2010,3,0.0,No,0.14641288433382138
+A815408,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815407,Named,Austin (TX),Stray,Injured,Dog,Intact Male,3.0,Pure-Breed,Pure-Color,Intact Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A815406,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815405,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Mixed-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815403,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815402,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,5.0,Pure-Breed,Mixed-Color,Spayed Female,5.0,0.0,2020,3,2020,3,2014,9,0.0,No,0.14641288433382138
+A815401,Named,Other (TX),Owner Surrender,Normal,Bird,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815400,Named,Other (TX),Owner Surrender,Normal,Bird,Unknown,1.0,Pure-Breed,Mixed-Color,Unknown,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815398,Unnamed,Austin (TX),Public Assist,Normal,Cat,Neutered Male,1.0,Mixed-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815397,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333333,Cross-Breed,Mixed-Color,Intact Male,0.8333333333333333,0.0,2020,3,2020,3,2019,4,0.0,No,0.14641288433382138
+A815390,Unnamed,Austin (TX),Stray,Nursing,Cat,Unknown,0.019230769230769232,Pure-Breed,Pure-Color,Unknown,0.019230769230769232,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A815388,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815378,Named,Austin (TX),Public Assist,Normal,Dog,Neutered Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2017,9,0.0,No,0.14641288433382138
+A815377,Named,Austin (TX),Public Assist,Normal,Dog,Spayed Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815374,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815373,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815372,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815371,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815370,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Pure-Color,Intact Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,No,0.14641288433382138
+A815369,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815368,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815367,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815359,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Cross-Breed,Pure-Color,Spayed Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815358,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,10.0,Pure-Breed,Pure-Color,Spayed Female,10.0,0.0,2020,3,2020,3,2010,3,0.0,No,0.14641288433382138
+A815357,Named,Austin (TX),Stray,Normal,Dog,Intact Male,10.0,Pure-Breed,Mixed-Color,Intact Male,10.0,0.0,2020,3,2020,3,2009,9,0.0,No,0.14641288433382138
+A815356,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.41666666666666663,Pure-Breed,Pure-Color,Neutered Male,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,Yes,0.33444816053511706
+A815352,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815351,Named,Austin (TX),Stray,Injured,Cat,Neutered Male,8.0,Pure-Breed,Mixed-Color,Neutered Male,8.0,0.0,2020,3,2020,3,2012,3,0.0,No,0.14641288433382138
+A815346,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815345,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,4.0,Pure-Breed,Mixed-Color,Intact Female,4.0,0.0,2020,3,2020,3,2016,3,0.0,No,0.14641288433382138
+A815338,Named,Other (TX),Stray,Injured,Cat,Neutered Male,3.0,Pure-Breed,Pure-Color,Neutered Male,3.0,1.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A815334,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815333,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815331,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A815330,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A815321,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815318,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815316,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815315,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815314,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815313,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815311,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815310,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815309,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Pure-Breed,Pure-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815308,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815302,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815301,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815298,Unnamed,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.057692307692307696,Pure-Breed,Pure-Color,Intact Male,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.0,No,0.14641288433382138
+A815297,Unnamed,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.057692307692307696,Pure-Breed,Pure-Color,Intact Male,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.0,No,0.14641288433382138
+A815296,Unnamed,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.057692307692307696,Pure-Breed,Pure-Color,Intact Female,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.0,No,0.14641288433382138
+A815295,Unnamed,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.057692307692307696,Pure-Breed,Pure-Color,Intact Female,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.0,No,0.14641288433382138
+A815294,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,5.0,Pure-Breed,Mixed-Color,Neutered Male,5.0,0.0,2020,3,2020,3,2015,3,0.0,No,0.14641288433382138
+A815293,Named,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,7.0,Pure-Breed,Mixed-Color,Spayed Female,7.0,0.0,2020,3,2020,3,2013,3,0.0,No,0.14641288433382138
+A815289,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815287,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815286,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A815285,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A815283,Named,Austin (TX),Public Assist,Normal,Dog,Intact Male,3.0,Cross-Breed,Mixed-Color,Intact Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A815274,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815272,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.038461538461538464,Mixed-Breed,Pure-Color,Intact Female,0.038461538461538464,0.0,2020,3,2020,3,2020,2,0.0,No,0.14641288433382138
+A815271,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.038461538461538464,Mixed-Breed,Pure-Color,Intact Female,0.038461538461538464,0.0,2020,3,2020,3,2020,2,0.0,No,0.14641288433382138
+A815270,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,0.038461538461538464,Mixed-Breed,Pure-Color,Intact Male,0.038461538461538464,0.0,2020,3,2020,3,2020,2,0.0,No,0.14641288433382138
+A815269,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.038461538461538464,Mixed-Breed,Pure-Color,Intact Female,0.038461538461538464,0.0,2020,3,2020,3,2020,2,0.0,No,0.14641288433382138
+A815268,Unnamed,Austin (TX),Public Assist,Nursing,Dog,Intact Female,0.0,Pure-Breed,Mixed-Color,Intact Female,0.019230769230769232,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815267,Unnamed,Austin (TX),Public Assist,Nursing,Dog,Intact Male,0.0,Pure-Breed,Mixed-Color,Intact Male,0.019230769230769232,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815266,Unnamed,Austin (TX),Public Assist,Nursing,Dog,Intact Female,0.0,Pure-Breed,Mixed-Color,Intact Female,0.019230769230769232,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815265,Unnamed,Austin (TX),Public Assist,Nursing,Dog,Intact Male,0.0,Pure-Breed,Mixed-Color,Intact Male,0.019230769230769232,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815264,Unnamed,Austin (TX),Public Assist,Nursing,Dog,Intact Male,0.0,Pure-Breed,Mixed-Color,Intact Male,0.019230769230769232,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815263,Unnamed,Austin (TX),Public Assist,Nursing,Dog,Intact Female,0.0,Pure-Breed,Mixed-Color,Intact Female,0.019230769230769232,0.0,2020,3,2020,3,2020,3,0.019230769230769232,No,0.14641288433382138
+A815262,Named,Austin (TX),Public Assist,Normal,Dog,Neutered Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815261,Named,Austin (TX),Public Assist,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815258,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Pure-Color,Spayed Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,Yes,0.33444816053511706
+A815255,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815253,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,12.0,Pure-Breed,Pure-Color,Neutered Male,12.0,0.0,2020,3,2020,3,2008,3,0.0,No,0.14641288433382138
+A815252,Named,Austin (TX),Stray,Injured,Cat,Intact Male,3.0,Pure-Breed,Pure-Color,Intact Male,3.0,1.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A815250,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Mixed-Breed,Mixed-Color,Intact Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,No,0.14641288433382138
+A815248,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,4.0,Cross-Breed,Pure-Color,Neutered Male,4.0,0.0,2020,3,2020,3,2016,3,0.0,No,0.14641288433382138
+A815238,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815236,Named,Austin (TX),Owner Surrender,Sick,Dog,Neutered Male,9.0,Pure-Breed,Mixed-Color,Neutered Male,9.0,1.0,2020,3,2020,3,2011,3,0.0,No,0.14641288433382138
+A815231,Unnamed,Austin (TX),Stray,Normal,Other,Unknown,1.0,Pure-Breed,Mixed-Color,Unknown,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815229,Named,Austin (TX),Public Assist,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815227,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Mixed-Color,Intact Female,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A815226,Unnamed,Austin (TX),Public Assist,Normal,Dog,Intact Male,0.019230769230769232,Pure-Breed,Mixed-Color,Intact Male,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.038461538461538464,No,0.14641288433382138
+A815225,Unnamed,Austin (TX),Public Assist,Normal,Dog,Intact Male,0.019230769230769232,Pure-Breed,Mixed-Color,Intact Male,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.038461538461538464,No,0.14641288433382138
+A815224,Unnamed,Austin (TX),Public Assist,Normal,Dog,Intact Female,0.019230769230769232,Pure-Breed,Pure-Color,Intact Female,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.038461538461538464,No,0.14641288433382138
+A815221,Unnamed,Austin (TX),Public Assist,Normal,Dog,Intact Male,0.019230769230769232,Pure-Breed,Mixed-Color,Intact Male,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.038461538461538464,No,0.14641288433382138
+A815220,Unnamed,Austin (TX),Public Assist,Normal,Dog,Intact Male,0.019230769230769232,Pure-Breed,Mixed-Color,Intact Male,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.038461538461538464,No,0.14641288433382138
+A815219,Unnamed,Austin (TX),Public Assist,Normal,Dog,Intact Female,0.019230769230769232,Pure-Breed,Pure-Color,Intact Female,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.038461538461538464,No,0.14641288433382138
+A815218,Unnamed,Austin (TX),Public Assist,Normal,Dog,Intact Female,0.019230769230769232,Pure-Breed,Pure-Color,Intact Female,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.038461538461538464,No,0.14641288433382138
+A815217,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.9166666666666666,Mixed-Breed,Mixed-Color,Neutered Male,0.9166666666666666,0.0,2020,3,2020,3,2019,4,0.0,Yes,0.33444816053511706
+A815216,Named,Austin (TX),Public Assist,Normal,Dog,Intact Female,3.0,Pure-Breed,Pure-Color,Intact Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A815215,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,7.0,Pure-Breed,Pure-Color,Intact Male,7.0,0.0,2020,3,2020,3,2013,3,0.0,No,0.14641288433382138
+A815214,Unnamed,Other (TX),Stray,Normal,Dog,Intact Male,1.0,Cross-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A815212,Unnamed,Austin (TX),Abandoned,Normal,Dog,Intact Female,0.07692307692307693,Mixed-Breed,Mixed-Color,Intact Female,0.07692307692307693,1.0,2020,3,2020,3,2020,2,0.0,No,0.14641288433382138
+A815210,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.25,0.0,2020,3,2020,3,2019,12,0.08333333333333334,Yes,0.33444816053511706
+A815207,Unnamed,Austin (TX),Stray,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815204,Named,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Cross-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A815203,Named,Other (TX),Public Assist,Pregnant,Dog,Intact Female,2.0,Pure-Breed,Mixed-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815200,Named,Other (TX),Public Assist,Pregnant,Dog,Intact Female,2.0,Pure-Breed,Pure-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815193,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,0.9166666666666666,Pure-Breed,Pure-Color,Neutered Male,0.9166666666666666,0.0,2020,3,2020,3,2019,4,0.0,No,0.14641288433382138
+A815191,Unnamed,Austin (TX),Stray,Injured,Dog,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815187,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815185,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815184,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815183,Unnamed,Austin (TX),Stray,Normal,Dog,Neutered Male,7.0,Pure-Breed,Pure-Color,Neutered Male,7.0,0.0,2020,3,2020,3,2013,3,0.0,No,0.14641288433382138
+A815182,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815179,Named,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Pure-Breed,Pure-Color,Intact Male,4.0,0.0,2020,3,2020,3,2016,3,0.0,No,0.14641288433382138
+A815176,Named,Austin (TX),Stray,Medical,Dog,Intact Male,0.08333333333333333,Mixed-Breed,Pure-Color,Intact Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,No,0.14641288433382138
+A815174,Named,Other (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815172,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815171,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815166,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A815165,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815164,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815163,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Male,0.41666666666666663,Pure-Breed,Mixed-Color,Neutered Male,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,Yes,0.33444816053511706
+A815162,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815160,Unnamed,Austin (TX),Stray,Sick,Cat,Intact Male,5.0,Pure-Breed,Mixed-Color,Intact Male,5.0,1.0,2020,3,2020,3,2015,3,0.0,No,0.14641288433382138
+A815158,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,7.0,Pure-Breed,Mixed-Color,Spayed Female,7.0,0.0,2020,3,2020,3,2013,3,0.0,No,0.14641288433382138
+A815157,Named,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A815152,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815148,Named,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,8.0,Pure-Breed,Mixed-Color,Spayed Female,8.0,0.0,2020,3,2020,3,2012,3,0.0,No,0.14641288433382138
+A815147,Named,Other (TX),Owner Surrender,Normal,Cat,Spayed Female,10.0,Pure-Breed,Pure-Color,Spayed Female,10.0,0.0,2020,3,2020,3,2010,3,0.0,No,0.14641288433382138
+A815129,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815128,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815127,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815126,Named,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Pure-Breed,Pure-Color,Intact Male,4.0,0.0,2020,3,2020,3,2016,3,0.0,No,0.14641288433382138
+A815125,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Cross-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A815123,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815122,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Cross-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A815114,Unnamed,Austin (TX),Stray,Injured,Cat,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815112,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815109,Named,Austin (TX),Owner Surrender,Injured,Dog,Intact Male,2.0,Pure-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2017,5,0.0,Yes,0.33444816053511706
+A815108,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815107,Unnamed,Other (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815106,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815105,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815102,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815101,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.25,0.0,2020,3,2020,3,2019,12,0.08333333333333334,Yes,0.33444816053511706
+A815099,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815098,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815097,Named,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815096,Named,Other (TX),Stray,Normal,Dog,Spayed Female,3.0,Mixed-Breed,Mixed-Color,Spayed Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A815095,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.8333333333333333,Pure-Breed,Pure-Color,Intact Female,0.8333333333333333,0.0,2020,3,2020,3,2019,5,0.0,No,0.14641288433382138
+A815092,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Pure-Breed,Pure-Color,Spayed Female,1.0,0.0,2020,3,2020,3,2018,9,0.0,No,0.14641288433382138
+A815087,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815086,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815085,Unnamed,Austin (TX),Abandoned,Normal,Cat,Intact Female,0.41666666666666663,Mixed-Breed,Pure-Color,Spayed Female,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,Yes,0.33444816053511706
+A815084,Unnamed,Austin (TX),Abandoned,Normal,Cat,Intact Male,2.0,Mixed-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A815083,Named,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,10.0,Pure-Breed,Pure-Color,Spayed Female,10.0,0.0,2020,3,2020,3,2010,3,0.0,No,0.14641288433382138
+A815082,Named,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Mixed-Breed,Mixed-Color,Neutered Male,4.0,0.0,2020,3,2020,3,2016,3,0.0,Yes,0.33444816053511706
+A815081,Unnamed,Austin (TX),Abandoned,Normal,Cat,Intact Female,0.41666666666666663,Mixed-Breed,Pure-Color,Spayed Female,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,Yes,0.33444816053511706
+A815077,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815076,Named,Austin (TX),Owner Surrender,Sick,Dog,Spayed Female,5.0,Cross-Breed,Mixed-Color,Spayed Female,5.0,0.0,2020,3,2020,3,2015,3,0.0,No,0.14641288433382138
+A815071,Unnamed,Austin (TX),Stray,Sick,Dog,Intact Male,0.3333333333333333,Pure-Breed,Mixed-Color,Intact Male,0.3333333333333333,0.0,2020,3,2020,3,2019,10,0.0,No,0.14641288433382138
+A815070,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Mixed-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,Yes,0.33444816053511706
+A815069,Named,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Pure-Color,Spayed Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,Yes,0.33444816053511706
+A815052,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815048,Unnamed,Other (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Pure-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815047,Unnamed,Other (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Pure-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815045,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815044,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A815038,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A815037,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A815034,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Mixed-Breed,Mixed-Color,Intact Female,0.25,0.0,2020,3,2020,3,2019,11,0.0,No,0.14641288433382138
+A815029,Named,Austin (TX),Public Assist,Normal,Cat,Intact Female,2.0,Pure-Breed,Pure-Color,Spayed Female,3.0,0.0,2020,3,2020,3,2017,3,1.0,Yes,0.33444816053511706
+A815028,Named,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pure-Breed,Pure-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815025,Named,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pure-Breed,Pure-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815024,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Pure-Breed,Pure-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A815023,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Mixed-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815019,Unnamed,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,Mixed-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A815016,Unnamed,Other (TX),Stray,Medical,Dog,Intact Male,7.0,Pure-Breed,Pure-Color,Intact Male,8.0,0.0,2020,3,2020,3,2012,3,1.0,No,0.14641288433382138
+A815007,Named,Austin (TX),Public Assist,Normal,Cat,Spayed Female,2.0,Pure-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A815005,Named,Other (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A814985,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Pure-Breed,Pure-Color,Intact Female,0.3333333333333333,0.0,2020,3,2020,3,2019,10,0.0,No,0.14641288433382138
+A814970,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Mixed-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814963,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814951,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Pure-Breed,Pure-Color,Intact Male,0.3333333333333333,0.0,2020,3,2020,3,2019,11,0.08333333333333331,No,0.14641288433382138
+A814950,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Pure-Color,Intact Female,0.25,0.0,2020,3,2020,3,2019,12,0.08333333333333334,No,0.14641288433382138
+A814949,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Pure-Color,Intact Female,0.25,0.0,2020,3,2020,3,2019,12,0.08333333333333334,No,0.14641288433382138
+A814945,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814944,Unnamed,Other (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814941,Named,Austin (TX),Public Assist,Normal,Dog,Spayed Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814940,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Mixed-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814932,Named,Other (TX),Owner Surrender,Normal,Cat,Neutered Male,3.0,Mixed-Breed,Pure-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814930,Named,Other (TX),Owner Surrender,Normal,Cat,Neutered Male,3.0,Mixed-Breed,Pure-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814929,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333333,Mixed-Breed,Mixed-Color,Neutered Male,0.8333333333333333,0.0,2020,3,2020,3,2019,5,0.0,Yes,0.33444816053511706
+A814928,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333333,Cross-Breed,Pure-Color,Neutered Male,0.8333333333333333,0.0,2020,3,2020,3,2019,5,0.0,Yes,0.33444816053511706
+A814927,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.8333333333333333,Pure-Breed,Mixed-Color,Spayed Female,0.8333333333333333,0.0,2020,3,2020,3,2019,5,0.0,Yes,0.33444816053511706
+A814926,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333333,Mixed-Breed,Mixed-Color,Neutered Male,0.8333333333333333,0.0,2020,3,2020,3,2019,5,0.0,Yes,0.33444816053511706
+A814924,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.8333333333333333,Pure-Breed,Mixed-Color,Spayed Female,0.8333333333333333,0.0,2020,3,2020,3,2019,5,0.0,Yes,0.33444816053511706
+A814922,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Mixed-Breed,Pure-Color,Unknown,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814921,Named,Austin (TX),Stray,Injured,Cat,Spayed Female,4.0,Pure-Breed,Pure-Color,Spayed Female,4.0,0.0,2020,3,2020,3,2015,9,0.0,No,0.14641288433382138
+A814920,Named,Austin (TX),Stray,Normal,Cat,Intact Female,0.25,Pure-Breed,Mixed-Color,Spayed Female,0.3333333333333333,0.0,2020,3,2020,3,2019,11,0.08333333333333331,Yes,0.33444816053511706
+A814918,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Mixed-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814916,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814915,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Female,0.010958904109589041,Pure-Breed,Pure-Color,Intact Female,0.010958904109589041,0.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A814913,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,2.0,Pure-Breed,Pure-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814912,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Mixed-Color,Spayed Female,0.25,0.0,2020,3,2020,3,2019,12,0.08333333333333334,Yes,0.33444816053511706
+A814911,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Spayed Female,0.25,0.0,2020,3,2020,3,2019,12,0.08333333333333334,Yes,0.33444816053511706
+A814909,Named,Other (TX),Stray,Normal,Dog,Neutered Male,2.0,Pure-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2017,10,0.0,No,0.14641288433382138
+A814906,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,0.6666666666666666,Mixed-Breed,Pure-Color,Unknown,0.6666666666666666,0.0,2020,3,2020,3,2019,7,0.0,No,0.14641288433382138
+A814905,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Pure-Breed,Pure-Color,Spayed Female,0.3333333333333333,0.0,2020,3,2020,3,2019,11,0.08333333333333331,Yes,0.33444816053511706
+A814901,Named,Austin (TX),Owner Surrender,Sick,Cat,Intact Female,0.41666666666666663,Pure-Breed,Pure-Color,Intact Female,0.41666666666666663,0.0,2020,3,2020,3,2019,9,0.0,No,0.14641288433382138
+A814898,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.5833333333333333,Pure-Breed,Mixed-Color,Spayed Female,0.5833333333333333,0.0,2020,3,2020,3,2019,8,0.0,Yes,0.33444816053511706
+A814897,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.16666666666666666,Mixed-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A814896,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,3.0,Pure-Breed,Pure-Color,Intact Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814894,Named,Austin (TX),Stray,Injured,Dog,Intact Male,2.0,Mixed-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814890,Named,Austin (TX),Stray,Injured,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814886,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,3.0,Pure-Breed,Mixed-Color,Unknown,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814885,Unnamed,Other (TX),Stray,Sick,Dog,Intact Male,0.3333333333333333,Mixed-Breed,Mixed-Color,Intact Male,0.3333333333333333,0.0,2020,3,2020,3,2019,10,0.0,No,0.14641288433382138
+A814883,Unnamed,Austin (TX),Abandoned,Normal,Cat,Intact Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814882,Unnamed,Austin (TX),Abandoned,Normal,Cat,Intact Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814881,Unnamed,Austin (TX),Abandoned,Normal,Cat,Intact Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814880,Unnamed,Austin (TX),Abandoned,Normal,Cat,Intact Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814879,Unnamed,Austin (TX),Abandoned,Normal,Cat,Intact Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814878,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Pure-Breed,Pure-Color,Intact Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,No,0.14641288433382138
+A814874,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814873,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814872,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814870,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814869,Named,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Cross-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814868,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814867,Unnamed,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,Pure-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814866,Unnamed,Austin (TX),Stray,Normal,Cat,Spayed Female,0.41666666666666663,Pure-Breed,Pure-Color,Spayed Female,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,No,0.14641288433382138
+A814861,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814860,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Pure-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814859,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Pure-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814858,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814857,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814855,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.3333333333333333,0.0,2020,3,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814854,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Pure-Breed,Mixed-Color,Neutered Male,5.0,0.0,2020,3,2020,3,2015,3,0.0,Yes,0.33444816053511706
+A814853,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Mixed-Color,Spayed Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,Yes,0.33444816053511706
+A814848,Named,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Mixed-Breed,Mixed-Color,Intact Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814845,Named,Austin (TX),Stray,Normal,Cat,Neutered Male,2.0,Pure-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814843,Named,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,2.0,Pure-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814832,Unnamed,Other (TX),Stray,Sick,Dog,Intact Female,0.08333333333333333,Pure-Breed,Mixed-Color,Intact Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,No,0.14641288433382138
+A814829,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814828,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333333,Cross-Breed,Pure-Color,Neutered Male,0.8333333333333333,0.0,2020,3,2020,3,2019,5,0.0,Yes,0.33444816053511706
+A814825,Named,Other (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Intact Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,No,0.14641288433382138
+A814821,Named,Other (TX),Owner Surrender,Normal,Dog,Neutered Male,10.0,Pure-Breed,Mixed-Color,Neutered Male,10.0,0.0,2020,3,2020,3,2010,3,0.0,No,0.14641288433382138
+A814820,Unnamed,Other (TX),Stray,Sick,Dog,Intact Male,3.0,Pure-Breed,Mixed-Color,Intact Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814818,Named,Austin (TX),Abandoned,Normal,Dog,Intact Male,1.0,Mixed-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A814817,Named,Austin (TX),Stray,Injured,Cat,Neutered Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814816,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Pure-Breed,Mixed-Color,Spayed Female,0.3333333333333333,0.0,2020,3,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814815,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814814,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814813,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814812,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814811,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Pure-Color,Spayed Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,Yes,0.33444816053511706
+A814809,Named,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,1.0,Pure-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814808,Named,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Pure-Breed,Mixed-Color,Intact Male,4.0,0.0,2020,3,2020,3,2016,3,0.0,No,0.14641288433382138
+A814805,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814803,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,2.0,Pure-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814800,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,Pure-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814799,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814795,Named,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814794,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814793,Named,Austin (TX),Stray,Normal,Dog,Intact Male,7.0,Mixed-Breed,Pure-Color,Intact Male,7.0,0.0,2020,3,2020,3,2013,3,0.0,No,0.14641288433382138
+A814791,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814789,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Mixed-Breed,Mixed-Color,Neutered Male,0.3333333333333333,0.0,2020,3,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814788,Unnamed,Austin (TX),Public Assist,Sick,Cat,Neutered Male,10.0,Pure-Breed,Pure-Color,Neutered Male,10.0,1.0,2020,3,2020,3,2010,3,0.0,No,0.14641288433382138
+A814787,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.9166666666666666,Pure-Breed,Mixed-Color,Intact Female,0.9166666666666666,0.0,2020,3,2020,3,2019,4,0.0,No,0.14641288433382138
+A814786,Named,Other (TX),Owner Surrender,Sick,Cat,Intact Female,1.0,Pure-Breed,Pure-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814785,Unnamed,Austin (TX),Stray,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814784,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.41666666666666663,Pure-Breed,Mixed-Color,Neutered Male,0.41666666666666663,0.0,2020,3,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814783,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.41666666666666663,Pure-Breed,Mixed-Color,Neutered Male,0.41666666666666663,0.0,2020,3,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814782,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.41666666666666663,Pure-Breed,Mixed-Color,Spayed Female,0.41666666666666663,0.0,2020,3,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814781,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.41666666666666663,Pure-Breed,Mixed-Color,Spayed Female,0.41666666666666663,0.0,2020,3,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814780,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.41666666666666663,Pure-Breed,Pure-Color,Spayed Female,0.41666666666666663,0.0,2020,3,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814779,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.41666666666666663,Pure-Breed,Pure-Color,Neutered Male,0.41666666666666663,0.0,2020,3,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814778,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.41666666666666663,Pure-Breed,Mixed-Color,Spayed Female,0.41666666666666663,0.0,2020,3,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814775,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Mixed-Breed,Mixed-Color,Intact Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814772,Named,Other (TX),Stray,Normal,Cat,Intact Female,13.0,Pure-Breed,Pure-Color,Intact Female,13.0,0.0,2020,3,2020,3,2007,3,0.0,No,0.14641288433382138
+A814771,Unnamed,Austin (TX),Abandoned,Normal,Cat,Intact Female,2.0,Pure-Breed,Pure-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814770,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814768,Named,Other (TX),Stray,Normal,Dog,Intact Female,2.0,Mixed-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814767,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814765,Named,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Mixed-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814764,Unnamed,Austin (TX),Stray,Sick,Cat,Spayed Female,2.0,Pure-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814763,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Mixed-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814762,Named,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,7.0,Pure-Breed,Pure-Color,Spayed Female,8.0,0.0,2020,3,2020,3,2012,3,1.0,No,0.14641288433382138
+A814757,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.5833333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.5833333333333333,0.0,2020,3,2020,3,2019,8,0.0,Yes,0.33444816053511706
+A814754,Named,Austin (TX),Public Assist,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814750,Named,Austin (TX),Owner Surrender,Injured,Dog,Intact Male,0.008219178082191782,Pure-Breed,Pure-Color,Intact Male,0.008219178082191782,1.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A814749,Named,Austin (TX),Owner Surrender,Injured,Dog,Intact Female,0.008219178082191782,Pure-Breed,Pure-Color,Intact Female,0.008219178082191782,1.0,2020,3,2020,3,2020,3,0.0,No,0.14641288433382138
+A814748,Unnamed,Austin (TX),Stray,Injured,Other,Unknown,1.0,Pure-Breed,Mixed-Color,Unknown,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814746,Unnamed,Austin (TX),Stray,Injured,Dog,Intact Male,3.0,Mixed-Breed,Pure-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,Yes,0.33444816053511706
+A814745,Unnamed,Austin (TX),Stray,Injured,Dog,Intact Male,1.0,Mixed-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A814742,Unnamed,Austin (TX),Wildlife,Injured,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814741,Unnamed,Austin (TX),Stray,Injured,Cat,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814740,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814739,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814738,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814737,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814736,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A814734,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Cross-Breed,Pure-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814733,Named,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Mixed-Color,Spayed Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,Yes,0.33444816053511706
+A814732,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814731,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814727,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814725,Named,Other (TX),Stray,Normal,Dog,Intact Female,1.0,Mixed-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A814721,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Cross-Breed,Mixed-Color,Spayed Female,0.3333333333333333,0.0,2020,3,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814720,Named,Other (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814719,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.5833333333333333,Cross-Breed,Mixed-Color,Neutered Male,0.5833333333333333,0.0,2020,3,2020,3,2019,8,0.0,No,0.14641288433382138
+A814718,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,4.0,Pure-Breed,Pure-Color,Intact Male,4.0,0.0,2020,3,2020,3,2016,3,0.0,No,0.14641288433382138
+A814716,Named,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,0.41666666666666663,Pure-Breed,Pure-Color,Spayed Female,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,No,0.14641288433382138
+A814711,Named,Austin (TX),Owner Surrender,Sick,Cat,Neutered Male,3.0,Pure-Breed,Pure-Color,Neutered Male,3.0,1.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814710,Named,Austin (TX),Stray,Normal,Cat,Neutered Male,4.0,Pure-Breed,Pure-Color,Neutered Male,4.0,0.0,2020,3,2020,3,2016,3,0.0,No,0.14641288433382138
+A814709,Named,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Mixed-Color,Intact Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814708,Named,Other (TX),Owner Surrender,Normal,Dog,Spayed Female,4.0,Pure-Breed,Mixed-Color,Spayed Female,4.0,0.0,2020,3,2020,3,2016,3,0.0,No,0.14641288433382138
+A814707,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.41666666666666663,Pure-Breed,Mixed-Color,Intact Female,0.41666666666666663,0.0,2020,3,2020,3,2019,9,0.0,No,0.14641288433382138
+A814705,Named,Austin (TX),Abandoned,Normal,Dog,Intact Female,1.0,Pure-Breed,Pure-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814704,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Pure-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,Yes,0.33444816053511706
+A814702,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814697,Named,Austin (TX),Owner Surrender,Pregnant,Dog,Spayed Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814692,Unnamed,Other (TX),Wildlife,Injured,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814690,Named,Other (TX),Stray,Normal,Dog,Neutered Male,3.0,Mixed-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2016,11,0.0,No,0.14641288433382138
+A814689,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814685,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814684,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Pure-Color,Spayed Female,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A814683,Unnamed,Other (TX),Wildlife,Sick,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814682,Named,Austin (TX),Stray,Injured,Dog,Spayed Female,3.0,Pure-Breed,Pure-Color,Spayed Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814681,Named,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,3.0,Mixed-Breed,Pure-Color,Spayed Female,3.0,0.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814677,Named,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,2.0,Pure-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2017,9,0.0,No,0.14641288433382138
+A814676,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Pure-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814674,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814673,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814672,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814671,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2020,1,0.08333333333333333,Yes,0.33444816053511706
+A814670,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A814664,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,3.0,Pure-Breed,Pure-Color,Unknown,3.0,1.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814663,Named,Other (TX),Stray,Sick,Dog,Intact Male,0.08333333333333333,Pure-Breed,Pure-Color,Neutered Male,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A814662,Unnamed,Other (TX),Stray,Sick,Dog,Intact Female,0.08333333333333333,Pure-Breed,Pure-Color,Spayed Female,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A814661,Unnamed,Other (TX),Stray,Sick,Dog,Intact Male,0.08333333333333333,Pure-Breed,Pure-Color,Neutered Male,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A814660,Unnamed,Other (TX),Stray,Sick,Dog,Intact Female,0.08333333333333333,Pure-Breed,Pure-Color,Spayed Female,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A814659,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814652,Unnamed,Austin (TX),Stray,Injured,Cat,Neutered Male,2.0,Pure-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814651,Unnamed,Austin (TX),Stray,Normal,Dog,Spayed Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814650,Named,Other (TX),Stray,Normal,Dog,Intact Male,0.25,Pure-Breed,Pure-Color,Neutered Male,0.3333333333333333,0.0,2020,3,2020,3,2019,11,0.08333333333333331,Yes,0.33444816053511706
+A814647,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814646,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814645,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,1.0,Mixed-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814644,Named,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,3.0,Pure-Breed,Mixed-Color,Spayed Female,3.0,0.0,2020,3,2020,3,2016,9,0.0,No,0.14641288433382138
+A814643,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Mixed-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814642,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Mixed-Breed,Mixed-Color,Intact Male,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A814641,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Mixed-Breed,Mixed-Color,Intact Male,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A814640,Named,Austin (TX),Public Assist,Normal,Dog,Intact Female,2.0,Pure-Breed,Mixed-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814639,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Mixed-Breed,Mixed-Color,Intact Male,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,No,0.14641288433382138
+A814630,Named,Austin (TX),Public Assist,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,3,2020,3,2018,9,0.0,No,0.14641288433382138
+A814620,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814619,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,6.0,Cross-Breed,Mixed-Color,Neutered Male,6.0,0.0,2020,3,2020,3,2014,3,0.0,No,0.14641288433382138
+A814618,Unnamed,Austin (TX),Stray,Injured,Cat,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814617,Unnamed,Austin (TX),Stray,Injured,Cat,Unknown,0.038461538461538464,Pure-Breed,Pure-Color,Unknown,0.038461538461538464,1.0,2020,3,2020,3,2020,2,0.0,No,0.14641288433382138
+A814616,Unnamed,Austin (TX),Stray,Injured,Dog,Intact Female,4.0,Pure-Breed,Mixed-Color,Intact Female,4.0,1.0,2020,3,2020,3,2016,3,0.0,No,0.14641288433382138
+A814613,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814612,Named,Other (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Mixed-Breed,Mixed-Color,Spayed Female,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A814611,Named,Other (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Mixed-Breed,Pure-Color,Neutered Male,0.08333333333333333,0.0,2020,3,2020,3,2020,1,0.0,Yes,0.33444816053511706
+A814606,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.019230769230769232,Pure-Breed,Mixed-Color,Intact Female,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.038461538461538464,No,0.14641288433382138
+A814605,Unnamed,Other (TX),Stray,Normal,Dog,Intact Male,0.019230769230769232,Pure-Breed,Mixed-Color,Intact Male,0.057692307692307696,0.0,2020,3,2020,3,2020,2,0.038461538461538464,No,0.14641288433382138
+A814604,Named,Other (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,3,2020,3,2018,9,0.0,No,0.14641288433382138
+A814602,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,10.0,Mixed-Breed,Mixed-Color,Intact Male,10.0,0.0,2020,3,2020,3,2010,3,0.0,No,0.14641288433382138
+A814592,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814586,Named,Other (TX),Stray,Normal,Dog,Intact Female,0.25,Mixed-Breed,Mixed-Color,Spayed Female,0.3333333333333333,0.0,2020,3,2020,3,2019,11,0.08333333333333331,Yes,0.33444816053511706
+A814585,Named,Other (TX),Owner Surrender,Normal,Dog,Neutered Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814583,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814581,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814579,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814576,Named,Austin (TX),Public Assist,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,3,2020,3,2019,1,0.0,No,0.14641288433382138
+A814575,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,6.0,Pure-Breed,Pure-Color,Neutered Male,6.0,0.0,2020,3,2020,3,2014,3,0.0,Yes,0.33444816053511706
+A814574,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,6.0,Mixed-Breed,Mixed-Color,Intact Female,6.0,0.0,2020,3,2020,3,2014,3,0.0,No,0.14641288433382138
+A814573,Named,Austin (TX),Stray,Normal,Other,Intact Male,5.0,Pure-Breed,Pure-Color,Intact Male,5.0,0.0,2020,3,2020,3,2015,3,0.0,No,0.14641288433382138
+A814571,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Pure-Breed,Pure-Color,Spayed Female,0.3333333333333333,0.0,2020,3,2020,3,2019,11,0.08333333333333331,Yes,0.33444816053511706
+A814570,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.6666666666666666,Pure-Breed,Mixed-Color,Neutered Male,0.6666666666666666,0.0,2020,3,2020,3,2019,7,0.0,Yes,0.33444816053511706
+A814566,Unnamed,Austin (TX),Abandoned,Sick,Dog,Neutered Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814563,Named,Austin (TX),Owner Surrender,Normal,Other,Unknown,0.41666666666666663,Mixed-Breed,Pure-Color,Unknown,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,No,0.14641288433382138
+A814562,Named,Austin (TX),Owner Surrender,Normal,Other,Unknown,0.41666666666666663,Mixed-Breed,Mixed-Color,Unknown,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,No,0.14641288433382138
+A814561,Named,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,6.0,Pure-Breed,Mixed-Color,Spayed Female,6.0,0.0,2020,3,2020,3,2014,3,0.0,No,0.14641288433382138
+A814556,Named,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814555,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Pure-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,Yes,0.33444816053511706
+A814554,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Cross-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A814552,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Pure-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,Yes,0.33444816053511706
+A814549,Named,Outside (TX),Owner Surrender,Normal,Dog,Spayed Female,0.6666666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.6666666666666666,0.0,2020,3,2020,3,2019,7,0.0,No,0.14641288433382138
+A814548,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Cross-Breed,Mixed-Color,Neutered Male,0.3333333333333333,0.0,2020,3,2020,3,2019,11,0.08333333333333331,Yes,0.33444816053511706
+A814547,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814546,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814544,Unnamed,Other (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814542,Named,Austin (TX),Public Assist,Normal,Dog,Intact Male,7.0,Pure-Breed,Mixed-Color,Neutered Male,7.0,0.0,2020,3,2020,3,2013,3,0.0,Yes,0.33444816053511706
+A814541,Unnamed,Austin (TX),Wildlife,Injured,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814535,Unnamed,Austin (TX),Stray,Injured,Cat,Spayed Female,8.0,Pure-Breed,Pure-Color,Spayed Female,8.0,1.0,2020,3,2020,3,2012,3,0.0,No,0.14641288433382138
+A814534,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,3.0,Pure-Breed,Mixed-Color,Intact Male,3.0,1.0,2020,3,2020,3,2017,3,0.0,No,0.14641288433382138
+A814531,Unnamed,Other (TX),Wildlife,Injured,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814530,Unnamed,Austin (TX),Wildlife,Injured,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814528,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.75,Pure-Breed,Pure-Color,Intact Female,0.75,0.0,2020,3,2020,3,2019,6,0.0,No,0.14641288433382138
+A814527,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Mixed-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814526,Named,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Mixed-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814521,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Mixed-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814518,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814517,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Cross-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814514,Named,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814513,Unnamed,Other (TX),Stray,Normal,Cat,Intact Female,2.0,Mixed-Breed,Mixed-Color,Intact Female,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814512,Unnamed,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814511,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333333,Mixed-Breed,Mixed-Color,Intact Male,0.8333333333333333,0.0,2020,3,2020,3,2019,5,0.0,No,0.14641288433382138
+A814509,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,6.0,Pure-Breed,Pure-Color,Neutered Male,6.0,0.0,2020,3,2020,3,2014,3,0.0,No,0.14641288433382138
+A814508,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814507,Named,Other (TX),Public Assist,Normal,Dog,Intact Female,10.0,Mixed-Breed,Pure-Color,Intact Female,10.0,0.0,2020,3,2020,3,2010,3,0.0,No,0.14641288433382138
+A814506,Named,Other (TX),Stray,Normal,Dog,Intact Male,2.0,Mixed-Breed,Pure-Color,Intact Male,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814505,Unnamed,Other (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Pure-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814504,Unnamed,Other (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Pure-Breed,Pure-Color,Intact Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,No,0.14641288433382138
+A814503,Unnamed,Other (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Pure-Breed,Pure-Color,Intact Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,No,0.14641288433382138
+A814502,Unnamed,Other (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814501,Unnamed,Other (TX),Stray,Normal,Cat,Unknown,0.41666666666666663,Pure-Breed,Mixed-Color,Unknown,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,No,0.14641288433382138
+A814500,Unnamed,Other (TX),Stray,Normal,Cat,Unknown,0.41666666666666663,Pure-Breed,Pure-Color,Unknown,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,No,0.14641288433382138
+A814499,Unnamed,Other (TX),Stray,Normal,Cat,Unknown,0.41666666666666663,Pure-Breed,Pure-Color,Unknown,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,No,0.14641288433382138
+A814498,Unnamed,Other (TX),Stray,Normal,Cat,Unknown,0.41666666666666663,Pure-Breed,Mixed-Color,Unknown,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,No,0.14641288433382138
+A814497,Unnamed,Other (TX),Stray,Normal,Cat,Unknown,0.41666666666666663,Pure-Breed,Pure-Color,Unknown,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,No,0.14641288433382138
+A814496,Unnamed,Other (TX),Stray,Normal,Cat,Intact Female,0.41666666666666663,Pure-Breed,Pure-Color,Intact Female,0.5,0.0,2020,3,2020,3,2019,9,0.08333333333333337,No,0.14641288433382138
+A814494,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.3333333333333333,Mixed-Breed,Mixed-Color,Spayed Female,0.41666666666666663,0.0,2020,3,2020,3,2019,10,0.08333333333333331,Yes,0.33444816053511706
+A814493,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Mixed-Breed,Pure-Color,Unknown,2.0,0.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814492,Named,Other (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Mixed-Breed,Mixed-Color,Intact Male,0.3333333333333333,0.0,2020,3,2020,3,2019,10,0.0,No,0.14641288433382138
+A814489,Unnamed,Austin (TX),Stray,Injured,Dog,Intact Male,5.0,Pure-Breed,Pure-Color,Intact Male,5.0,1.0,2020,3,2020,3,2015,3,0.0,No,0.14641288433382138
+A814487,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,3,2020,3,2018,3,0.0,No,0.14641288433382138
+A814486,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Mixed-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,3,2020,3,2017,3,0.0,Yes,0.33444816053511706
+A814480,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,3,2018,3,0.0,No,0.14641288433382138
+A814476,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.5833333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.5833333333333333,0.0,2020,3,2020,3,2019,7,0.0,No,0.14641288433382138
+A814475,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.5833333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.5833333333333333,0.0,2020,2,2020,3,2019,7,0.0,Yes,0.33444816053511706
+A814473,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,3,2018,3,0.0,No,0.14641288433382138
+A814472,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,3,2018,3,0.0,No,0.14641288433382138
+A814471,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,3,2018,3,0.0,No,0.14641288433382138
+A814470,Named,Other (TX),Stray,Normal,Dog,Neutered Male,9.0,Mixed-Breed,Mixed-Color,Neutered Male,9.0,0.0,2020,2,2020,2,2010,11,0.0,No,0.14641288433382138
+A814469,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,2,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814467,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,3,2018,3,0.0,No,0.14641288433382138
+A814466,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Mixed-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,3,2019,3,0.0,No,0.14641288433382138
+A814465,Named,Austin (TX),Public Assist,Normal,Dog,Neutered Male,3.0,Cross-Breed,Pure-Color,Neutered Male,3.0,0.0,2020,2,2020,3,2016,4,0.0,No,0.14641288433382138
+A814464,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,3,0.0,No,0.14641288433382138
+A814463,Named,Other (TX),Owner Surrender,Normal,Dog,Neutered Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2018,6,0.0,No,0.14641288433382138
+A814462,Named,Other (TX),Stray,Normal,Dog,Intact Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,2,2020,3,2018,3,0.0,Yes,0.33444816053511706
+A814461,Named,Austin (TX),Stray,Injured,Dog,Intact Male,0.41666666666666663,Cross-Breed,Mixed-Color,Intact Male,0.41666666666666663,0.0,2020,2,2020,3,2019,9,0.0,No,0.14641288433382138
+A814458,Named,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,0.25,Mixed-Breed,Mixed-Color,Neutered Male,0.25,0.0,2020,2,2020,3,2019,11,0.0,No,0.14641288433382138
+A814457,Named,Other (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,2,2020,3,2019,3,0.0,No,0.14641288433382138
+A814456,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.010958904109589041,Mixed-Breed,Pure-Color,Intact Female,0.010958904109589041,0.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A814455,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,0.010958904109589041,Mixed-Breed,Pure-Color,Intact Male,0.010958904109589041,0.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A814454,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,0.010958904109589041,Mixed-Breed,Pure-Color,Intact Male,0.010958904109589041,0.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A814453,Unnamed,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,0.25,Mixed-Breed,Mixed-Color,Spayed Female,0.25,0.0,2020,2,2020,3,2019,11,0.0,No,0.14641288433382138
+A814452,Named,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,0.25,Mixed-Breed,Mixed-Color,Neutered Male,0.25,0.0,2020,2,2020,3,2019,11,0.0,No,0.14641288433382138
+A814451,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Cross-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A814450,Named,Other (TX),Stray,Aged,Dog,Intact Male,14.0,Pure-Breed,Mixed-Color,Intact Male,14.0,0.0,2020,2,2020,2,2006,3,0.0,No,0.14641288433382138
+A814449,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Mixed-Breed,Mixed-Color,Neutered Male,0.3333333333333333,0.0,2020,2,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814448,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.5,Mixed-Breed,Mixed-Color,Spayed Female,0.5,0.0,2020,2,2020,3,2019,8,0.0,Yes,0.33444816053511706
+A814447,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,5.0,Pure-Breed,Pure-Color,Intact Male,5.0,0.0,2020,2,2020,3,2015,3,0.0,No,0.14641288433382138
+A814446,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Mixed-Breed,Pure-Color,Unknown,1.0,0.0,2020,2,2020,3,2019,3,0.0,No,0.14641288433382138
+A814445,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Mixed-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,2,2020,3,2018,3,0.0,No,0.14641288433382138
+A814444,Named,Other (TX),Stray,Aged,Dog,Spayed Female,15.0,Pure-Breed,Pure-Color,Spayed Female,15.0,0.0,2020,2,2020,2,2005,3,0.0,No,0.14641288433382138
+A814443,Named,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Pure-Color,Spayed Female,1.0,0.0,2020,2,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A814441,Named,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1.0,Pure-Breed,Pure-Color,Intact Male,1.0,0.0,2020,2,2020,3,2018,8,0.0,No,0.14641288433382138
+A814440,Named,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1.0,Pure-Breed,Pure-Color,Intact Male,1.0,0.0,2020,2,2020,3,2018,8,0.0,No,0.14641288433382138
+A814439,Named,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1.0,Pure-Breed,Pure-Color,Intact Male,1.0,0.0,2020,2,2020,3,2018,8,0.0,No,0.14641288433382138
+A814438,Named,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1.0,Pure-Breed,Pure-Color,Intact Male,1.0,0.0,2020,2,2020,3,2018,8,0.0,No,0.14641288433382138
+A814437,Named,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1.0,Pure-Breed,Pure-Color,Intact Male,1.0,0.0,2020,2,2020,3,2018,8,0.0,No,0.14641288433382138
+A814435,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,3,2019,3,0.0,No,0.14641288433382138
+A814434,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Pure-Breed,Pure-Color,Intact Male,1.0,0.0,2020,2,2020,3,2019,3,0.0,No,0.14641288433382138
+A814433,Unnamed,Other (TX),Wildlife,Injured,Other,Unknown,0.010958904109589041,Pure-Breed,Pure-Color,Unknown,0.010958904109589041,1.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A814432,Named,Austin (TX),Public Assist,Normal,Cat,Neutered Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,3,0.0,No,0.14641288433382138
+A814430,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Mixed-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814429,Named,Other (TX),Owner Surrender,Normal,Dog,Neutered Male,5.0,Pure-Breed,Mixed-Color,Neutered Male,5.0,0.0,2020,2,2020,2,2015,3,0.0,No,0.14641288433382138
+A814428,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.25,Mixed-Breed,Mixed-Color,Spayed Female,0.25,0.0,2020,2,2020,3,2019,11,0.0,Yes,0.33444816053511706
+A814427,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.25,Mixed-Breed,Pure-Color,Spayed Female,0.25,0.0,2020,2,2020,3,2019,11,0.0,Yes,0.33444816053511706
+A814426,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,0.25,Mixed-Breed,Pure-Color,Neutered Male,0.25,0.0,2020,2,2020,3,2019,11,0.0,Yes,0.33444816053511706
+A814424,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814423,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Cross-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,3,2019,3,0.0,No,0.14641288433382138
+A814419,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,2,2020,3,2018,3,0.0,No,0.14641288433382138
+A814402,Unnamed,Other (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,3,0.0,No,0.14641288433382138
+A814401,Unnamed,Other (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,3,0.0,No,0.14641288433382138
+A814398,Named,Austin (TX),Public Assist,Normal,Dog,Spayed Female,3.0,Pure-Breed,Mixed-Color,Spayed Female,3.0,0.0,2020,2,2020,3,2017,2,0.0,No,0.14641288433382138
+A814395,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,14.0,Cross-Breed,Pure-Color,Neutered Male,14.0,0.0,2020,2,2020,2,2006,3,0.0,No,0.14641288433382138
+A814381,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.41666666666666663,Mixed-Breed,Pure-Color,Intact Female,0.41666666666666663,0.0,2020,2,2020,3,2019,9,0.0,No,0.14641288433382138
+A814375,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Mixed-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,2,2020,3,2018,2,0.0,Yes,0.33444816053511706
+A814374,Unnamed,Austin (TX),Stray,Normal,Other,Intact Male,1.0,Pure-Breed,Pure-Color,Intact Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,No,0.14641288433382138
+A814372,Named,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Pure-Color,Intact Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A814371,Named,Outside (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Pure-Color,Intact Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A814370,Named,Outside (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A814368,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814367,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814366,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814365,Named,Other (TX),Owner Surrender,Normal,Cat,Spayed Female,13.0,Mixed-Breed,Pure-Color,Spayed Female,13.0,0.0,2020,2,2020,3,2007,2,0.0,No,0.14641288433382138
+A814364,Named,Other (TX),Owner Surrender,Normal,Cat,Spayed Female,13.0,Mixed-Breed,Pure-Color,Spayed Female,13.0,0.0,2020,2,2020,3,2007,2,0.0,No,0.14641288433382138
+A814363,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814361,Unnamed,Other (TX),Owner Surrender,Nursing,Dog,Unknown,0.019230769230769232,Mixed-Breed,Pure-Color,Unknown,0.038461538461538464,1.0,2020,2,2020,3,2020,2,0.019230769230769232,No,0.14641288433382138
+A814360,Unnamed,Other (TX),Owner Surrender,Nursing,Dog,Unknown,0.019230769230769232,Mixed-Breed,Pure-Color,Unknown,0.057692307692307696,1.0,2020,2,2020,3,2020,2,0.038461538461538464,No,0.14641288433382138
+A814359,Unnamed,Other (TX),Owner Surrender,Nursing,Dog,Intact Female,0.019230769230769232,Mixed-Breed,Pure-Color,Intact Female,0.07692307692307693,0.0,2020,2,2020,3,2020,2,0.057692307692307696,No,0.14641288433382138
+A814358,Named,Austin (TX),Owner Surrender,Sick,Dog,Intact Female,0.25,Pure-Breed,Mixed-Color,Intact Female,0.25,0.0,2020,2,2020,2,2019,11,0.0,No,0.14641288433382138
+A814354,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,2,2020,3,2018,2,0.0,No,0.14641288433382138
+A814353,Named,Other (TX),Stray,Normal,Cat,Neutered Male,0.3333333333333333,Pure-Breed,Mixed-Color,Neutered Male,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,No,0.14641288433382138
+A814352,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.5,Pure-Breed,Mixed-Color,Spayed Female,0.5,0.0,2020,2,2020,3,2019,8,0.0,Yes,0.33444816053511706
+A814351,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A814350,Named,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Cross-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A814349,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A814341,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Cross-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,2,2020,3,2018,2,0.0,Yes,0.33444816053511706
+A814339,Named,Other (TX),Stray,Normal,Cat,Intact Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A814338,Named,Outside (TX),Stray,Normal,Cat,Neutered Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,No,0.14641288433382138
+A814337,Unnamed,Austin (TX),Abandoned,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A814333,Unnamed,Austin (TX),Stray,Nursing,Cat,Unknown,0.010958904109589041,Pure-Breed,Mixed-Color,Unknown,0.0136986301369863,0.0,2020,2,2020,2,2020,2,0.0027397260273972594,No,0.14641288433382138
+A814332,Unnamed,Austin (TX),Stray,Nursing,Cat,Unknown,0.010958904109589041,Pure-Breed,Mixed-Color,Unknown,0.0136986301369863,0.0,2020,2,2020,2,2020,2,0.0027397260273972594,No,0.14641288433382138
+A814331,Unnamed,Austin (TX),Stray,Nursing,Cat,Unknown,0.010958904109589041,Pure-Breed,Mixed-Color,Unknown,0.0136986301369863,0.0,2020,2,2020,2,2020,2,0.0027397260273972594,No,0.14641288433382138
+A814330,Unnamed,Austin (TX),Stray,Nursing,Cat,Unknown,0.010958904109589041,Pure-Breed,Mixed-Color,Unknown,0.0136986301369863,0.0,2020,2,2020,2,2020,2,0.0027397260273972594,No,0.14641288433382138
+A814327,Named,Austin (TX),Abandoned,Normal,Cat,Spayed Female,1.0,Pure-Breed,Pure-Color,Spayed Female,1.0,0.0,2020,2,2020,2,2018,7,0.0,No,0.14641288433382138
+A814323,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Mixed-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,2,2020,3,2018,2,0.0,Yes,0.33444816053511706
+A814322,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Pure-Breed,Pure-Color,Intact Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A814321,Named,Other (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814319,Named,Other (TX),Owner Surrender,Normal,Dog,Spayed Female,0.25,Cross-Breed,Pure-Color,Spayed Female,0.25,0.0,2020,3,2020,3,2019,12,0.0,No,0.14641288433382138
+A814318,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814317,Named,Other (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814316,Unnamed,Other (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814315,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814310,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,3.0,Pure-Breed,Pure-Color,Neutered Male,3.0,0.0,2020,2,2020,3,2017,2,0.0,No,0.14641288433382138
+A814306,Named,Other (TX),Stray,Normal,Dog,Intact Female,0.9166666666666666,Pure-Breed,Pure-Color,Spayed Female,0.9166666666666666,0.0,2020,2,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A814305,Named,Other (TX),Stray,Normal,Dog,Intact Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,2,2020,3,2018,2,0.0,Yes,0.33444816053511706
+A814303,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Cross-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A814300,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Female,0.07692307692307693,Pure-Breed,Pure-Color,Intact Female,0.08333333333333333,1.0,2020,2,2020,3,2020,1,0.006410256410256401,No,0.14641288433382138
+A814299,Unnamed,Austin (TX),Stray,Normal,Dog,Neutered Male,0.5,Pure-Breed,Mixed-Color,Neutered Male,0.5,0.0,2020,2,2020,3,2019,8,0.0,No,0.14641288433382138
+A814297,Named,Other (TX),Stray,Normal,Dog,Intact Male,0.5,Mixed-Breed,Mixed-Color,Intact Male,0.5,0.0,2020,2,2020,3,2019,8,0.0,No,0.14641288433382138
+A814296,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Pure-Breed,Mixed-Color,Intact Male,3.0,0.0,2020,2,2020,3,2017,2,0.0,No,0.14641288433382138
+A814295,Named,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Pure-Breed,Pure-Color,Neutered Male,4.0,0.0,2020,2,2020,3,2016,2,0.0,Yes,0.33444816053511706
+A814293,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Pure-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814292,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Pure-Breed,Pure-Color,Neutered Male,0.3333333333333333,0.0,2020,2,2020,3,2019,10,0.0,Yes,0.33444816053511706
+A814291,Named,Austin (TX),Abandoned,Normal,Cat,Intact Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A814287,Named,Austin (TX),Stray,Injured,Dog,Spayed Female,8.0,Pure-Breed,Pure-Color,Spayed Female,8.0,0.0,2020,2,2020,3,2012,2,0.0,No,0.14641288433382138
+A814284,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,3,2019,2,0.0,No,0.14641288433382138
+A814283,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A814282,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A814281,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A814280,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A814279,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A814274,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Pure-Breed,Mixed-Color,Neutered Male,0.25,0.0,2020,2,2020,3,2019,11,0.0,Yes,0.33444816053511706
+A814273,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.25,Pure-Breed,Mixed-Color,Neutered Male,0.25,0.0,2020,3,2020,3,2019,11,0.0,No,0.14641288433382138
+A814272,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Pure-Breed,Mixed-Color,Neutered Male,0.25,0.0,2020,2,2020,3,2019,11,0.0,Yes,0.33444816053511706
+A814270,Named,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Pure-Color,Spayed Female,3.0,0.0,2020,2,2020,3,2017,2,0.0,Yes,0.33444816053511706
+A814269,Named,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A814268,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A814266,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814265,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2018,8,0.0,Yes,0.33444816053511706
+A814259,Named,Austin (TX),Owner Surrender,Sick,Cat,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,0.0,2020,2,2020,3,2018,2,0.0,No,0.14641288433382138
+A814252,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,3,2019,2,0.0,No,0.14641288433382138
+A814250,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Pure-Breed,Mixed-Color,Intact Female,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,No,0.14641288433382138
+A814249,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Pure-Breed,Mixed-Color,Intact Male,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,No,0.14641288433382138
+A814248,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,2,2020,3,2018,2,0.0,Yes,0.33444816053511706
+A814246,Named,Other (TX),Stray,Normal,Dog,Spayed Female,5.0,Pure-Breed,Pure-Color,Spayed Female,5.0,0.0,2020,2,2020,3,2015,2,0.0,No,0.14641288433382138
+A814243,Named,Austin (TX),Stray,Normal,Cat,Neutered Male,4.0,Pure-Breed,Mixed-Color,Neutered Male,4.0,0.0,2020,2,2020,3,2016,2,0.0,No,0.14641288433382138
+A814241,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pure-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,2,2020,3,2018,2,0.0,Yes,0.33444816053511706
+A814239,Unnamed,Other (TX),Stray,Normal,Cat,Intact Female,2.0,Pure-Breed,Pure-Color,Intact Female,2.0,0.0,2020,2,2020,3,2018,2,0.0,No,0.14641288433382138
+A814237,Unnamed,Other (TX),Stray,Normal,Cat,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,0.0,2020,2,2020,3,2018,2,0.0,No,0.14641288433382138
+A814236,Unnamed,Other (TX),Stray,Normal,Cat,Intact Female,2.0,Pure-Breed,Mixed-Color,Intact Female,2.0,0.0,2020,2,2020,3,2018,2,0.0,No,0.14641288433382138
+A814235,Unnamed,Other (TX),Stray,Normal,Cat,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,0.0,2020,2,2020,3,2018,2,0.0,No,0.14641288433382138
+A814234,Named,Other (TX),Stray,Normal,Dog,Spayed Female,3.0,Pure-Breed,Mixed-Color,Spayed Female,3.0,0.0,2020,2,2020,3,2017,2,0.0,No,0.14641288433382138
+A814230,Unnamed,Austin (TX),Stray,Nursing,Dog,Intact Male,0.016438356164383564,Cross-Breed,Pure-Color,Intact Male,0.07692307692307693,0.0,2020,2,2020,3,2020,2,0.060484720758693364,No,0.14641288433382138
+A814229,Unnamed,Austin (TX),Stray,Nursing,Dog,Intact Male,0.016438356164383564,Cross-Breed,Pure-Color,Intact Male,0.07692307692307693,0.0,2020,2,2020,3,2020,2,0.060484720758693364,No,0.14641288433382138
+A814228,Unnamed,Austin (TX),Stray,Nursing,Dog,Intact Male,0.016438356164383564,Cross-Breed,Pure-Color,Intact Male,0.07692307692307693,0.0,2020,2,2020,3,2020,2,0.060484720758693364,No,0.14641288433382138
+A814227,Unnamed,Austin (TX),Stray,Nursing,Dog,Intact Female,0.016438356164383564,Cross-Breed,Pure-Color,Intact Female,0.07692307692307693,0.0,2020,2,2020,3,2020,2,0.060484720758693364,No,0.14641288433382138
+A814226,Unnamed,Austin (TX),Stray,Nursing,Dog,Intact Female,0.016438356164383564,Cross-Breed,Pure-Color,Intact Female,0.07692307692307693,0.0,2020,2,2020,3,2020,2,0.060484720758693364,No,0.14641288433382138
+A814225,Named,Austin (TX),Stray,Nursing,Dog,Intact Female,5.0,Cross-Breed,Mixed-Color,Intact Female,5.0,0.0,2020,2,2020,3,2015,2,0.0,No,0.14641288433382138
+A814222,Named,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Pure-Breed,Pure-Color,Intact Male,4.0,0.0,2020,2,2020,2,2016,2,0.0,No,0.14641288433382138
+A814221,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,6.0,Pure-Breed,Mixed-Color,Neutered Male,6.0,0.0,2020,2,2020,2,2014,2,0.0,No,0.14641288433382138
+A814213,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,0.9166666666666666,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.08333333333333337,No,0.14641288433382138
+A814211,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Mixed-Color,Intact Male,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,No,0.14641288433382138
+A814210,Named,Austin (TX),Abandoned,Normal,Dog,Spayed Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814209,Named,Austin (TX),Abandoned,Normal,Dog,Spayed Female,0.5,Pure-Breed,Mixed-Color,Spayed Female,0.5,0.0,2020,2,2020,2,2019,8,0.0,No,0.14641288433382138
+A814207,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Mixed-Breed,Pure-Color,Intact Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A814206,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.5833333333333333,Mixed-Breed,Pure-Color,Intact Female,0.5833333333333333,0.0,2020,2,2020,2,2019,7,0.0,No,0.14641288433382138
+A814205,Unnamed,Other (TX),Wildlife,Injured,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814202,Named,Other (TX),Abandoned,Normal,Cat,Spayed Female,5.0,Mixed-Breed,Pure-Color,Spayed Female,5.0,0.0,2020,2,2020,3,2015,2,0.0,No,0.14641288433382138
+A814201,Named,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Cross-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A814199,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,8.0,Pure-Breed,Pure-Color,Spayed Female,8.0,0.0,2020,2,2020,2,2011,8,0.0,No,0.14641288433382138
+A814197,Unnamed,Other (TX),Stray,Nursing,Dog,Intact Female,0.019230769230769232,Mixed-Breed,Mixed-Color,Intact Female,0.019230769230769232,0.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A814196,Unnamed,Other (TX),Stray,Nursing,Dog,Intact Female,0.019230769230769232,Mixed-Breed,Pure-Color,Intact Female,0.019230769230769232,0.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A814193,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814192,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814191,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Pure-Color,Neutered Male,0.16666666666666666,1.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814190,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Pure-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814189,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814188,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814187,Named,Other (TX),Owner Surrender,Normal,Dog,Spayed Female,0.16666666666666666,Cross-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,No,0.14641288433382138
+A814186,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Pure-Breed,Pure-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814184,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Mixed-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814183,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814182,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Mixed-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814181,Unnamed,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814180,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814177,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,5.0,Mixed-Breed,Mixed-Color,Intact Male,5.0,0.0,2020,2,2020,2,2015,2,0.0,No,0.14641288433382138
+A814174,Named,Austin (TX),Stray,Normal,Cat,Spayed Female,1.0,Mixed-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,2,2020,3,2019,2,0.0,No,0.14641288433382138
+A814165,Unnamed,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.057692307692307696,Mixed-Breed,Mixed-Color,Neutered Male,0.08333333333333333,0.0,2020,2,2020,3,2020,1,0.025641025641025633,Yes,0.33444816053511706
+A814164,Unnamed,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.057692307692307696,Mixed-Breed,Mixed-Color,Neutered Male,0.08333333333333333,0.0,2020,2,2020,3,2020,1,0.025641025641025633,Yes,0.33444816053511706
+A814160,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Mixed-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,Yes,0.33444816053511706
+A814157,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.3333333333333333,Mixed-Breed,Pure-Color,Neutered Male,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,Yes,0.33444816053511706
+A814155,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A814154,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Mixed-Breed,Pure-Color,Unknown,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814153,Named,Austin (TX),Stray,Normal,Cat,Neutered Male,0.3333333333333333,Mixed-Breed,Mixed-Color,Neutered Male,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,No,0.14641288433382138
+A814152,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,5.0,Pure-Breed,Pure-Color,Spayed Female,5.0,0.0,2020,2,2020,3,2015,2,0.0,Yes,0.33444816053511706
+A814151,Named,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Pure-Breed,Mixed-Color,Neutered Male,5.0,0.0,2020,2,2020,3,2015,2,0.0,Yes,0.33444816053511706
+A814146,Unnamed,Austin (TX),Stray,Injured,Dog,Neutered Male,8.0,Pure-Breed,Mixed-Color,Neutered Male,8.0,1.0,2020,2,2020,2,2012,2,0.0,No,0.14641288433382138
+A814137,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,4.0,Pure-Breed,Pure-Color,Intact Male,4.0,1.0,2020,2,2020,2,2016,2,0.0,No,0.14641288433382138
+A814136,Named,Austin (TX),Public Assist,Normal,Dog,Intact Female,2.0,Pure-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,2,2020,3,2018,2,0.0,Yes,0.33444816053511706
+A814135,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,2,2020,3,2018,2,0.0,No,0.14641288433382138
+A814134,Named,Austin (TX),Abandoned,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A814133,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Mixed-Breed,Mixed-Color,Intact Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A814129,Named,Austin (TX),Abandoned,Normal,Dog,Intact Male,4.0,Pure-Breed,Pure-Color,Neutered Male,4.0,0.0,2020,2,2020,3,2016,2,0.0,Yes,0.33444816053511706
+A814128,Named,Austin (TX),Abandoned,Normal,Dog,Intact Male,3.0,Pure-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,2,2020,3,2017,2,0.0,Yes,0.33444816053511706
+A814121,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814120,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,2.0,Mixed-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814117,Unnamed,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.75,Pure-Breed,Mixed-Color,Neutered Male,0.75,0.0,2020,2,2020,2,2019,5,0.0,Yes,0.33444816053511706
+A814114,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Cross-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,Yes,0.33444816053511706
+A814113,Named,Austin (TX),Public Assist,Normal,Cat,Neutered Male,0.8333333333333333,Pure-Breed,Pure-Color,Neutered Male,0.8333333333333333,0.0,2020,2,2020,2,2019,4,0.0,No,0.14641288433382138
+A814112,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Female,10.0,Pure-Breed,Pure-Color,Intact Female,10.0,1.0,2020,2,2020,2,2010,2,0.0,No,0.14641288433382138
+A814111,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,6.0,Pure-Breed,Pure-Color,Spayed Female,6.0,0.0,2020,2,2020,2,2014,2,0.0,No,0.14641288433382138
+A814110,Named,Austin (TX),Public Assist,Normal,Cat,Spayed Female,1.0,Pure-Breed,Pure-Color,Spayed Female,1.0,0.0,2020,2,2020,3,2019,2,0.0,No,0.14641288433382138
+A814109,Named,Austin (TX),Public Assist,Normal,Cat,Spayed Female,1.0,Pure-Breed,Pure-Color,Spayed Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A814108,Named,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,8.0,Pure-Breed,Pure-Color,Spayed Female,9.0,0.0,2020,2,2020,2,2011,2,1.0,No,0.14641288433382138
+A814101,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.07692307692307693,Mixed-Breed,Pure-Color,Neutered Male,0.08333333333333333,0.0,2020,2,2020,3,2020,1,0.006410256410256401,Yes,0.33444816053511706
+A814097,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.5,Mixed-Breed,Pure-Color,Spayed Female,0.5,0.0,2020,2,2020,2,2019,8,0.0,Yes,0.33444816053511706
+A814096,Named,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,0.5,Mixed-Breed,Pure-Color,Spayed Female,0.5,0.0,2020,3,2020,3,2019,8,0.0,No,0.14641288433382138
+A814095,Unnamed,Other (TX),Stray,Normal,Cat,Intact Female,0.5,Pure-Breed,Pure-Color,Intact Female,0.5,0.0,2020,2,2020,2,2019,8,0.0,No,0.14641288433382138
+A814094,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Mixed-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A814091,Named,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,15.0,Mixed-Breed,Mixed-Color,Neutered Male,15.0,0.0,2020,2,2020,3,2005,2,0.0,No,0.14641288433382138
+A814090,Named,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pure-Breed,Mixed-Color,Intact Female,2.0,0.0,2020,2,2020,3,2017,11,0.0,No,0.14641288433382138
+A814089,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.25,Mixed-Breed,Mixed-Color,Spayed Female,0.25,0.0,2020,2,2020,2,2019,11,0.0,Yes,0.33444816053511706
+A814088,Named,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Mixed-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814087,Named,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Mixed-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,Yes,0.33444816053511706
+A814086,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Mixed-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814085,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Mixed-Breed,Pure-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814084,Named,Austin (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Mixed-Breed,Pure-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814083,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Mixed-Breed,Pure-Color,Intact Female,0.08333333333333333,0.0,2020,2,2020,2,2020,1,0.0,No,0.14641288433382138
+A814081,Named,Austin (TX),Public Assist,Normal,Dog,Intact Male,4.0,Pure-Breed,Pure-Color,Intact Male,4.0,0.0,2020,2,2020,2,2016,2,0.0,No,0.14641288433382138
+A814080,Named,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Cross-Breed,Mixed-Color,Intact Female,2.0,0.0,2020,2,2020,3,2018,2,0.0,No,0.14641288433382138
+A814067,Named,Austin (TX),Stray,Normal,Cat,Neutered Male,15.0,Pure-Breed,Mixed-Color,Neutered Male,15.0,0.0,2020,2,2020,2,2005,2,0.0,No,0.14641288433382138
+A814065,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814064,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814063,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814058,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,13.0,Pure-Breed,Pure-Color,Spayed Female,13.0,0.0,2020,2,2020,2,2007,2,0.0,No,0.14641288433382138
+A814057,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Cross-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,2,2018,8,0.0,No,0.14641288433382138
+A814056,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,7.0,Mixed-Breed,Mixed-Color,Spayed Female,7.0,0.0,2020,2,2020,2,2013,2,0.0,No,0.14641288433382138
+A814054,Unnamed,Other (TX),Stray,Normal,Cat,Intact Male,2.0,Mixed-Breed,Pure-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814053,Named,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Mixed-Breed,Mixed-Color,Intact Female,3.0,0.0,2020,2,2020,3,2017,2,0.0,No,0.14641288433382138
+A814050,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814049,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814045,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Mixed-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,2,2020,3,2018,2,0.0,No,0.14641288433382138
+A814044,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Mixed-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,No,0.14641288433382138
+A814041,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.057692307692307696,Mixed-Breed,Mixed-Color,Intact Female,0.07692307692307693,0.0,2020,2,2020,2,2020,1,0.019230769230769232,No,0.14641288433382138
+A814039,Named,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,3,2019,12,0.0,No,0.14641288433382138
+A814038,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Mixed-Breed,Pure-Color,Unknown,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814037,Named,Austin (TX),Owner Surrender,Sick,Dog,Spayed Female,0.25,Mixed-Breed,Mixed-Color,Spayed Female,0.25,0.0,2020,2,2020,2,2019,11,0.0,No,0.14641288433382138
+A814036,Named,Other (TX),Owner Surrender,Normal,Dog,Neutered Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2018,8,0.0,No,0.14641288433382138
+A814035,Unnamed,Other (TX),Stray,Sick,Cat,Intact Female,10.0,Pure-Breed,Pure-Color,Intact Female,10.0,0.0,2020,2,2020,2,2010,2,0.0,No,0.14641288433382138
+A814033,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Male,2.0,Mixed-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,2,2020,3,2018,2,0.0,Yes,0.33444816053511706
+A814032,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,14.0,Mixed-Breed,Pure-Color,Spayed Female,14.0,0.0,2020,2,2020,2,2006,2,0.0,No,0.14641288433382138
+A814031,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Cross-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814030,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Pure-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814028,Unnamed,Austin (TX),Stray,Injured,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814027,Named,Austin (TX),Public Assist,Normal,Dog,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,0.0,2020,2,2020,3,2018,2,0.0,No,0.14641288433382138
+A814026,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814025,Unnamed,Other (TX),Stray,Normal,Dog,Intact Male,1.0,Mixed-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,Yes,0.33444816053511706
+A814024,Named,Austin (TX),Owner Surrender,Injured,Dog,Intact Female,0.08333333333333333,Cross-Breed,Mixed-Color,Intact Female,0.08333333333333333,1.0,2020,2,2020,2,2020,1,0.0,No,0.14641288433382138
+A814023,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A814021,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Mixed-Breed,Mixed-Color,Neutered Male,0.41666666666666663,0.0,2020,2,2020,3,2019,10,0.08333333333333331,Yes,0.33444816053511706
+A814015,Unnamed,Other (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814014,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814013,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814006,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,2.0,Pure-Breed,Pure-Color,Intact Female,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814004,Named,Austin (TX),Stray,Normal,Dog,Neutered Male,10.0,Pure-Breed,Mixed-Color,Neutered Male,10.0,0.0,2020,2,2020,2,2010,2,0.0,No,0.14641288433382138
+A814003,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,2.0,Pure-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A814001,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Mixed-Breed,Mixed-Color,Intact Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A814000,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Mixed-Breed,Mixed-Color,Neutered Male,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,Yes,0.33444816053511706
+A813999,Named,Austin (TX),Owner Surrender,Injured,Dog,Intact Male,1.0,Mixed-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813998,Named,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,7.0,Pure-Breed,Pure-Color,Spayed Female,7.0,0.0,2020,2,2020,3,2013,2,0.0,No,0.14641288433382138
+A813997,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,Yes,0.33444816053511706
+A813995,Named,Austin (TX),Stray,Normal,Cat,Neutered Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813994,Named,Austin (TX),Stray,Normal,Cat,Neutered Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2018,9,0.0,No,0.14641288433382138
+A813993,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,7.0,Pure-Breed,Mixed-Color,Neutered Male,7.0,0.0,2020,2,2020,2,2013,2,0.0,No,0.14641288433382138
+A813992,Named,Austin (TX),Owner Surrender,Sick,Cat,Intact Female,0.08333333333333333,Pure-Breed,Mixed-Color,Intact Female,0.08333333333333333,0.0,2020,2,2020,2,2020,1,0.0,No,0.14641288433382138
+A813991,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,13.0,Pure-Breed,Mixed-Color,Neutered Male,13.0,0.0,2020,2,2020,2,2007,2,0.0,Yes,0.33444816053511706
+A813990,Named,Austin (TX),Abandoned,Normal,Dog,Spayed Female,2.0,Mixed-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,2,2020,3,2018,2,0.0,No,0.14641288433382138
+A813988,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.5,Pure-Breed,Mixed-Color,Spayed Female,0.5,0.0,2020,2,2020,3,2019,8,0.0,Yes,0.33444816053511706
+A813987,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.5,Pure-Breed,Pure-Color,Spayed Female,0.5,0.0,2020,2,2020,3,2019,8,0.0,Yes,0.33444816053511706
+A813986,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.5,Pure-Breed,Pure-Color,Neutered Male,0.5,0.0,2020,2,2020,2,2019,8,0.0,Yes,0.33444816053511706
+A813985,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.5,Pure-Breed,Mixed-Color,Neutered Male,0.5,0.0,2020,2,2020,3,2019,8,0.0,Yes,0.33444816053511706
+A813984,Named,Austin (TX),Abandoned,Normal,Dog,Intact Male,2.0,Cross-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,2,2020,3,2018,2,0.0,Yes,0.33444816053511706
+A813983,Named,Other (TX),Public Assist,Normal,Dog,Spayed Female,2.0,Cross-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813982,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,1.0,Pure-Breed,Pure-Color,Intact Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813980,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Mixed-Breed,Pure-Color,Neutered Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,Yes,0.33444816053511706
+A813979,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Mixed-Breed,Mixed-Color,Intact Male,0.25,0.0,2020,2,2020,2,2019,11,0.0,No,0.14641288433382138
+A813977,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813970,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813968,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Pure-Breed,Pure-Color,Spayed Female,3.0,0.0,2020,2,2020,3,2017,2,0.0,Yes,0.33444816053511706
+A813967,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Pure-Breed,Pure-Color,Spayed Female,3.0,0.0,2020,2,2020,3,2017,2,0.0,Yes,0.33444816053511706
+A813966,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Cross-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813965,Named,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Cross-Breed,Pure-Color,Intact Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813964,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813963,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.41666666666666663,Pure-Breed,Mixed-Color,Neutered Male,0.41666666666666663,0.0,2020,2,2020,2,2019,9,0.0,Yes,0.33444816053511706
+A813961,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813960,Unnamed,Austin (TX),Wildlife,Injured,Other,Unknown,3.0,Pure-Breed,Pure-Color,Unknown,3.0,1.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813959,Named,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Pure-Color,Intact Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813957,Named,Austin (TX),Stray,Sick,Cat,Spayed Female,9.0,Pure-Breed,Pure-Color,Spayed Female,9.0,0.0,2020,2,2020,2,2010,10,0.0,No,0.14641288433382138
+A813956,Named,Austin (TX),Stray,Normal,Cat,Neutered Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813955,Unnamed,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.3333333333333333,Pure-Breed,Pure-Color,Spayed Female,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,Yes,0.33444816053511706
+A813954,Named,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.3333333333333333,Pure-Breed,Pure-Color,Neutered Male,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,Yes,0.33444816053511706
+A813953,Unnamed,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.3333333333333333,Pure-Breed,Pure-Color,Spayed Female,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,Yes,0.33444816053511706
+A813952,Unnamed,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.3333333333333333,Pure-Breed,Pure-Color,Neutered Male,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,Yes,0.33444816053511706
+A813951,Named,Other (TX),Public Assist,Sick,Cat,Intact Female,0.3333333333333333,Mixed-Breed,Pure-Color,Intact Female,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,No,0.14641288433382138
+A813949,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813946,Unnamed,Austin (TX),Stray,Normal,Cat,Spayed Female,1.0,Pure-Breed,Pure-Color,Spayed Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813942,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,Yes,0.33444816053511706
+A813940,Named,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Mixed-Color,Spayed Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,Yes,0.33444816053511706
+A813937,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Pure-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,Yes,0.33444816053511706
+A813936,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Pure-Breed,Mixed-Color,Neutered Male,5.0,0.0,2020,2,2020,2,2015,2,0.0,Yes,0.33444816053511706
+A813934,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,8.0,Pure-Breed,Mixed-Color,Spayed Female,8.0,0.0,2020,2,2020,2,2012,2,0.0,No,0.14641288433382138
+A813933,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Pure-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,2,2020,2,2018,12,0.0,No,0.14641288433382138
+A813931,Unnamed,Austin (TX),Stray,Nursing,Cat,Unknown,0.0,Pure-Breed,Pure-Color,Unknown,0.0,0.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A813930,Unnamed,Austin (TX),Stray,Nursing,Cat,Unknown,0.0,Pure-Breed,Pure-Color,Unknown,0.0,0.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A813929,Unnamed,Austin (TX),Stray,Nursing,Cat,Unknown,0.0,Pure-Breed,Pure-Color,Unknown,0.0,0.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A813928,Unnamed,Austin (TX),Stray,Nursing,Cat,Intact Female,0.0,Pure-Breed,Pure-Color,Intact Female,0.0,0.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A813927,Unnamed,Austin (TX),Stray,Nursing,Cat,Unknown,0.0,Pure-Breed,Pure-Color,Unknown,0.0,0.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A813926,Unnamed,Austin (TX),Stray,Nursing,Cat,Unknown,0.0,Pure-Breed,Pure-Color,Unknown,0.0,0.0,2020,2,2020,2,2020,2,0.0,No,0.14641288433382138
+A813923,Named,Other (TX),Stray,Injured,Dog,Intact Female,0.41666666666666663,Pure-Breed,Mixed-Color,Intact Female,0.41666666666666663,0.0,2020,2,2020,3,2019,9,0.0,No,0.14641288433382138
+A813920,Unnamed,Austin (TX),Stray,Sick,Dog,Intact Male,0.3333333333333333,Mixed-Breed,Mixed-Color,Intact Male,0.3333333333333333,0.0,2020,2,2020,2,2019,10,0.0,No,0.14641288433382138
+A813919,Named,Other (TX),Stray,Normal,Dog,Intact Female,0.41666666666666663,Mixed-Breed,Mixed-Color,Intact Female,0.41666666666666663,0.0,2020,2,2020,3,2019,9,0.0,No,0.14641288433382138
+A813918,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813916,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.9166666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.9166666666666666,0.0,2020,2,2020,3,2019,3,0.0,Yes,0.33444816053511706
+A813915,Named,Austin (TX),Owner Surrender,Sick,Dog,Intact Male,11.0,Pure-Breed,Pure-Color,Intact Male,11.0,1.0,2020,2,2020,2,2009,2,0.0,No,0.14641288433382138
+A813913,Named,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Cross-Breed,Pure-Color,Intact Male,5.0,0.0,2020,2,2020,2,2015,2,0.0,No,0.14641288433382138
+A813910,Unnamed,Other (TX),Stray,Injured,Dog,Neutered Male,8.0,Pure-Breed,Pure-Color,Neutered Male,8.0,0.0,2020,2,2020,2,2012,2,0.0,No,0.14641288433382138
+A813909,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Pure-Breed,Mixed-Color,Spayed Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813905,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813902,Unnamed,Austin (TX),Abandoned,Normal,Cat,Intact Male,3.0,Pure-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,Yes,0.33444816053511706
+A813900,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813899,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,0.5,Pure-Breed,Mixed-Color,Neutered Male,0.5,0.0,2020,2,2020,2,2019,8,0.0,Yes,0.33444816053511706
+A813895,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Cross-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,Yes,0.33444816053511706
+A813894,Named,Other (TX),Stray,Normal,Dog,Intact Male,1.0,Cross-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,Yes,0.33444816053511706
+A813893,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813892,Unnamed,Other (TX),Stray,Injured,Dog,Intact Female,2.0,Mixed-Breed,Mixed-Color,Intact Female,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813891,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813890,Named,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,8.0,Pure-Breed,Pure-Color,Spayed Female,8.0,0.0,2020,2,2020,2,2012,2,0.0,No,0.14641288433382138
+A813889,Named,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Mixed-Breed,Pure-Color,Intact Male,5.0,0.0,2020,2,2020,2,2015,2,0.0,No,0.14641288433382138
+A813888,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813886,Named,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,0.5833333333333333,Pure-Breed,Mixed-Color,Spayed Female,0.5833333333333333,0.0,2020,2,2020,2,2019,7,0.0,No,0.14641288433382138
+A813883,Named,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Mixed-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,2,2020,3,2019,2,0.0,No,0.14641288433382138
+A813881,Named,Other (TX),Stray,Normal,Cat,Spayed Female,11.0,Pure-Breed,Pure-Color,Spayed Female,11.0,0.0,2020,2,2020,3,2009,2,0.0,No,0.14641288433382138
+A813878,Named,Austin (TX),Stray,Injured,Cat,Intact Female,0.25,Pure-Breed,Pure-Color,Spayed Female,0.25,0.0,2020,2,2020,3,2019,11,0.0,Yes,0.33444816053511706
+A813875,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Cross-Breed,Mixed-Color,Neutered Male,0.25,0.0,2020,2,2020,2,2019,11,0.08333333333333334,Yes,0.33444816053511706
+A813871,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.75,Pure-Breed,Mixed-Color,Spayed Female,0.75,0.0,2020,2,2020,2,2019,5,0.0,Yes,0.33444816053511706
+A813868,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813867,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813865,Unnamed,Other (TX),Wildlife,Sick,Other,Unknown,1.0,Pure-Breed,Mixed-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813863,Unnamed,Other (TX),Owner Surrender,Nursing,Dog,Intact Male,0.0027397260273972603,Mixed-Breed,Pure-Color,Intact Male,0.016438356164383564,1.0,2020,2,2020,2,2020,2,0.013698630136986304,No,0.14641288433382138
+A813861,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.5,Pure-Breed,Mixed-Color,Spayed Female,0.5,0.0,2020,2,2020,2,2019,8,0.0,Yes,0.33444816053511706
+A813860,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,0.9166666666666666,Pure-Breed,Pure-Color,Spayed Female,1.0,0.0,2020,2,2020,2,2019,2,0.08333333333333337,No,0.14641288433382138
+A813859,Named,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Mixed-Color,Intact Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813857,Named,Other (TX),Stray,Normal,Dog,Intact Male,3.0,Mixed-Breed,Mixed-Color,Intact Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813855,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Mixed-Breed,Pure-Color,Neutered Male,0.25,0.0,2020,2,2020,2,2019,11,0.0,Yes,0.33444816053511706
+A813851,Named,Austin (TX),Stray,Normal,Cat,Neutered Male,6.0,Pure-Breed,Mixed-Color,Neutered Male,6.0,0.0,2020,2,2020,2,2014,2,0.0,No,0.14641288433382138
+A813849,Named,Other (TX),Owner Surrender,Normal,Cat,Neutered Male,1.0,Mixed-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,No,0.14641288433382138
+A813847,Named,Austin (TX),Stray,Injured,Dog,Intact Male,3.0,Mixed-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,Yes,0.33444816053511706
+A813844,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,14.0,Pure-Breed,Mixed-Color,Intact Female,14.0,0.0,2020,2,2020,2,2006,2,0.0,No,0.14641288433382138
+A813843,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,9.0,Mixed-Breed,Mixed-Color,Neutered Male,9.0,0.0,2020,2,2020,2,2011,2,0.0,No,0.14641288433382138
+A813840,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,9.0,Mixed-Breed,Mixed-Color,Neutered Male,9.0,0.0,2020,2,2020,3,2011,2,0.0,No,0.14641288433382138
+A813835,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813834,Named,Austin (TX),Abandoned,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,2,2018,11,0.0,No,0.14641288433382138
+A813833,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Male,4.0,Mixed-Breed,Mixed-Color,Neutered Male,4.0,0.0,2020,2,2020,3,2015,10,0.0,Yes,0.33444816053511706
+A813830,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.9166666666666666,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,2,2019,2,0.08333333333333337,No,0.14641288433382138
+A813829,Unnamed,Other (TX),Owner Surrender,Nursing,Dog,Intact Male,0.0027397260273972603,Mixed-Breed,Pure-Color,Intact Male,0.09615384615384616,0.0,2020,2,2020,3,2020,2,0.0934141201264489,No,0.14641288433382138
+A813828,Unnamed,Other (TX),Owner Surrender,Nursing,Dog,Intact Male,0.0027397260273972603,Mixed-Breed,Pure-Color,Intact Male,0.09615384615384616,0.0,2020,2,2020,3,2020,2,0.0934141201264489,No,0.14641288433382138
+A813827,Unnamed,Other (TX),Owner Surrender,Nursing,Dog,Intact Male,0.0027397260273972603,Mixed-Breed,Pure-Color,Intact Male,0.09615384615384616,0.0,2020,2,2020,3,2020,2,0.0934141201264489,No,0.14641288433382138
+A813826,Unnamed,Other (TX),Owner Surrender,Nursing,Dog,Unknown,0.0027397260273972603,Mixed-Breed,Pure-Color,Unknown,0.019230769230769232,1.0,2020,2,2020,3,2020,2,0.016491043203371972,No,0.14641288433382138
+A813824,Named,Other (TX),Stray,Normal,Dog,Intact Female,0.5,Pure-Breed,Mixed-Color,Spayed Female,0.5,0.0,2020,2,2020,2,2019,8,0.0,Yes,0.33444816053511706
+A813823,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,3.0,Pure-Breed,Mixed-Color,Neutered Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813822,Named,Austin (TX),Public Assist,Normal,Dog,Neutered Male,6.0,Pure-Breed,Mixed-Color,Neutered Male,6.0,0.0,2020,2,2020,2,2013,7,0.0,No,0.14641288433382138
+A813819,Named,Austin (TX),Abandoned,Normal,Dog,Neutered Male,5.0,Cross-Breed,Mixed-Color,Neutered Male,5.0,0.0,2020,2,2020,2,2015,2,0.0,No,0.14641288433382138
+A813818,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813817,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Pure-Breed,Mixed-Color,Intact Male,0.25,0.0,2020,2,2020,2,2019,11,0.0,No,0.14641288433382138
+A813816,Unnamed,Austin (TX),Stray,Injured,Cat,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813814,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.9166666666666666,Cross-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,2,2020,2,2019,2,0.08333333333333337,No,0.14641288433382138
+A813813,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.9166666666666666,Cross-Breed,Pure-Color,Intact Female,1.0,0.0,2020,2,2020,2,2019,2,0.08333333333333337,No,0.14641288433382138
+A813809,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Pure-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813808,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Female,12.0,Pure-Breed,Mixed-Color,Intact Female,12.0,0.0,2020,2,2020,2,2008,2,0.0,No,0.14641288433382138
+A813806,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813804,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Cross-Breed,Pure-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813802,Named,Other (TX),Owner Surrender,Normal,Cat,Intact Female,0.6666666666666666,Pure-Breed,Pure-Color,Spayed Female,0.6666666666666666,0.0,2020,2,2020,2,2019,6,0.0,Yes,0.33444816053511706
+A813801,Named,Other (TX),Owner Surrender,Normal,Cat,Intact Female,0.6666666666666666,Pure-Breed,Mixed-Color,Spayed Female,0.6666666666666666,0.0,2020,2,2020,2,2019,6,0.0,Yes,0.33444816053511706
+A813800,Named,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pure-Breed,Mixed-Color,Spayed Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,Yes,0.33444816053511706
+A813798,Unnamed,Austin (TX),Owner Surrender,Normal,Other,Unknown,0.25,Pure-Breed,Pure-Color,Unknown,0.25,0.0,2020,2,2020,2,2019,11,0.0,No,0.14641288433382138
+A813797,Unnamed,Austin (TX),Owner Surrender,Normal,Other,Unknown,0.25,Pure-Breed,Pure-Color,Unknown,0.25,0.0,2020,2,2020,2,2019,11,0.0,No,0.14641288433382138
+A813796,Unnamed,Austin (TX),Owner Surrender,Normal,Other,Unknown,0.25,Pure-Breed,Pure-Color,Unknown,0.25,0.0,2020,2,2020,2,2019,11,0.0,No,0.14641288433382138
+A813795,Unnamed,Austin (TX),Owner Surrender,Normal,Other,Unknown,0.25,Pure-Breed,Pure-Color,Unknown,0.25,0.0,2020,2,2020,2,2019,11,0.0,No,0.14641288433382138
+A813794,Unnamed,Austin (TX),Owner Surrender,Normal,Other,Unknown,0.5,Pure-Breed,Pure-Color,Unknown,0.5,0.0,2020,2,2020,2,2019,8,0.0,No,0.14641288433382138
+A813793,Unnamed,Austin (TX),Owner Surrender,Normal,Other,Unknown,0.5,Pure-Breed,Pure-Color,Unknown,0.5,0.0,2020,2,2020,2,2019,8,0.0,No,0.14641288433382138
+A813792,Named,Austin (TX),Owner Surrender,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813791,Named,Austin (TX),Owner Surrender,Normal,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813786,Named,Other (TX),Stray,Normal,Dog,Neutered Male,4.0,Pure-Breed,Pure-Color,Neutered Male,5.0,0.0,2020,3,2020,2,2015,3,1.0,No,0.14641288433382138
+A813785,Named,Other (TX),Stray,Normal,Dog,Neutered Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,2,0.0,No,0.14641288433382138
+A813783,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813781,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Mixed-Breed,Mixed-Color,Spayed Female,0.25,0.0,2020,2,2020,2,2019,11,0.0,Yes,0.33444816053511706
+A813780,Unnamed,Other (TX),Stray,Normal,Cat,Neutered Male,1.0,Mixed-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813779,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,0.5,Pure-Breed,Mixed-Color,Intact Male,0.5,0.0,2020,2,2020,2,2019,8,0.0,No,0.14641288433382138
+A813778,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,0.41666666666666663,Pure-Breed,Mixed-Color,Intact Male,0.41666666666666663,0.0,2020,2,2020,2,2019,9,0.0,No,0.14641288433382138
+A813775,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Male,0.008219178082191782,Mixed-Breed,Pure-Color,Intact Male,0.010958904109589041,0.0,2020,2,2020,2,2020,2,0.0027397260273972594,No,0.14641288433382138
+A813774,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Male,0.008219178082191782,Mixed-Breed,Mixed-Color,Intact Male,0.010958904109589041,0.0,2020,2,2020,2,2020,2,0.0027397260273972594,No,0.14641288433382138
+A813773,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Female,0.008219178082191782,Mixed-Breed,Mixed-Color,Intact Female,0.010958904109589041,0.0,2020,2,2020,2,2020,2,0.0027397260273972594,No,0.14641288433382138
+A813772,Unnamed,Other (TX),Owner Surrender,Normal,Dog,Intact Male,0.008219178082191782,Mixed-Breed,Mixed-Color,Intact Male,0.010958904109589041,0.0,2020,2,2020,2,2020,2,0.0027397260273972594,No,0.14641288433382138
+A813771,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Mixed-Breed,Mixed-Color,Intact Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813769,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Male,3.0,Mixed-Breed,Mixed-Color,Intact Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813768,Named,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813767,Named,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,No,0.14641288433382138
+A813766,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Male,3.0,Mixed-Breed,Mixed-Color,Intact Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813765,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Male,3.0,Mixed-Breed,Mixed-Color,Intact Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813764,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Male,3.0,Mixed-Breed,Pure-Color,Intact Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813763,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Mixed-Breed,Mixed-Color,Spayed Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,Yes,0.33444816053511706
+A813762,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Mixed-Breed,Mixed-Color,Intact Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813761,Named,Austin (TX),Stray,Injured,Cat,Intact Female,0.25,Pure-Breed,Pure-Color,Spayed Female,0.25,0.0,2020,2,2020,2,2019,11,0.0,Yes,0.33444816053511706
+A813760,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,Yes,0.33444816053511706
+A813757,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Cross-Breed,Mixed-Color,Intact Female,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813756,Named,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,10.0,Pure-Breed,Pure-Color,Neutered Male,10.0,0.0,2020,2,2020,2,2010,2,0.0,No,0.14641288433382138
+A813754,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A813753,Unnamed,Other (TX),Owner Surrender,Sick,Cat,Intact Male,0.16666666666666666,Pure-Breed,Pure-Color,Intact Male,0.16666666666666666,1.0,2020,2,2020,2,2019,12,0.0,No,0.14641288433382138
+A813752,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Cross-Breed,Pure-Color,Neutered Male,0.25,0.0,2020,2,2020,3,2019,11,0.0,Yes,0.33444816053511706
+A813750,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Mixed-Breed,Pure-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813749,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Pure-Breed,Mixed-Color,Unknown,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813746,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813744,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Cross-Breed,Mixed-Color,Spayed Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813743,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Cross-Breed,Mixed-Color,Spayed Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813742,Named,Austin (TX),Stray,Sick,Cat,Intact Male,0.16666666666666666,Pure-Breed,Pure-Color,Intact Male,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,No,0.14641288433382138
+A813741,Named,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Pure-Breed,Pure-Color,Intact Male,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813739,Unnamed,Austin (TX),Public Assist,Normal,Cat,Intact Female,3.0,Pure-Breed,Mixed-Color,Intact Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813737,Named,Outside (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Mixed-Color,Intact Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813735,Named,Outside (TX),Stray,Normal,Dog,Intact Male,5.0,Pure-Breed,Mixed-Color,Intact Male,5.0,0.0,2020,2,2020,2,2015,2,0.0,No,0.14641288433382138
+A813733,Unnamed,Austin (TX),Stray,Injured,Cat,Intact Male,8.0,Pure-Breed,Pure-Color,Intact Male,8.0,0.0,2020,2,2020,2,2012,2,0.0,No,0.14641288433382138
+A813732,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Pure-Breed,Mixed-Color,Intact Male,4.0,0.0,2020,2,2020,2,2016,2,0.0,No,0.14641288433382138
+A813731,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,Yes,0.33444816053511706
+A813729,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Cross-Breed,Mixed-Color,Spayed Female,2.0,0.0,2020,2,2020,2,2018,2,0.0,Yes,0.33444816053511706
+A813728,Named,Austin (TX),Stray,Injured,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,2,2020,3,2018,2,0.0,Yes,0.33444816053511706
+A813725,Named,Austin (TX),Public Assist,Normal,Dog,Neutered Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813724,Named,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.16666666666666666,Pure-Breed,Mixed-Color,Neutered Male,0.16666666666666666,0.0,2020,3,2020,3,2019,12,0.0,No,0.14641288433382138
+A813720,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Mixed-Breed,Pure-Color,Spayed Female,1.0,0.0,2020,2,2020,3,2019,2,0.0,No,0.14641288433382138
+A813719,Named,Other (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Intact Male,3.0,0.0,2020,2,2020,2,2017,2,1.0,No,0.14641288433382138
+A813718,Named,Other (TX),Owner Surrender,Normal,Cat,Neutered Male,0.6666666666666666,Pure-Breed,Mixed-Color,Neutered Male,0.6666666666666666,0.0,2020,2,2020,2,2019,6,0.0,No,0.14641288433382138
+A813715,Named,Austin (TX),Stray,Normal,Cat,Spayed Female,4.0,Pure-Breed,Pure-Color,Spayed Female,4.0,0.0,2020,2,2020,2,2016,2,0.0,No,0.14641288433382138
+A813714,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Mixed-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A813713,Named,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,4.0,Pure-Breed,Pure-Color,Neutered Male,4.0,0.0,2020,2,2020,2,2015,5,0.0,No,0.14641288433382138
+A813712,Unnamed,Austin (TX),Stray,Normal,Cat,Unknown,3.0,Mixed-Breed,Pure-Color,Unknown,3.0,0.0,2020,2,2020,2,2017,2,0.0,No,0.14641288433382138
+A813711,Named,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2018,5,0.0,No,0.14641288433382138
+A813710,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,1.0,Pure-Breed,Pure-Color,Unknown,1.0,1.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813708,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Pure-Color,Intact Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813705,Named,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Cross-Breed,Pure-Color,Spayed Female,0.25,0.0,2020,2,2020,2,2019,11,0.0,Yes,0.33444816053511706
+A813704,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Cross-Breed,Pure-Color,Neutered Male,0.25,0.0,2020,2,2020,2,2019,11,0.0,Yes,0.33444816053511706
+A813703,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Mixed-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813702,Unnamed,Austin (TX),Stray,Normal,Dog,Neutered Male,7.0,Mixed-Breed,Pure-Color,Neutered Male,7.0,0.0,2020,2,2020,2,2013,2,0.0,No,0.14641288433382138
+A813698,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Female,4.0,Pure-Breed,Pure-Color,Intact Female,4.0,0.0,2020,2,2020,2,2015,8,0.0,No,0.14641288433382138
+A813697,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Female,5.0,Pure-Breed,Mixed-Color,Intact Female,5.0,0.0,2020,2,2020,2,2014,8,0.0,No,0.14641288433382138
+A813696,Unnamed,Austin (TX),Stray,Normal,Dog,Neutered Male,13.0,Pure-Breed,Pure-Color,Neutered Male,13.0,0.0,2020,2,2020,2,2007,2,0.0,No,0.14641288433382138
+A813695,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,2,2020,3,2019,2,0.0,Yes,0.33444816053511706
+A813694,Named,Other (TX),Stray,Normal,Dog,Neutered Male,1.0,Cross-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,3,2020,3,2019,2,0.0,No,0.14641288433382138
+A813693,Unnamed,Austin (TX),Stray,Normal,Cat,Intact Female,0.41666666666666663,Pure-Breed,Mixed-Color,Spayed Female,0.41666666666666663,0.0,2020,2,2020,2,2019,9,0.0,Yes,0.33444816053511706
+A813683,Named,Other (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Intact Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138
+A813682,Named,Other (TX),Stray,Normal,Dog,Neutered Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2018,8,0.0,No,0.14641288433382138
+A813680,Named,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Mixed-Breed,Mixed-Color,Spayed Female,0.16666666666666666,0.0,2020,2,2020,2,2019,12,0.0,Yes,0.33444816053511706
+A813675,Named,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pure-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,2,2020,3,2018,2,0.0,Yes,0.33444816053511706
+A813674,Unnamed,Austin (TX),Wildlife,Sick,Other,Unknown,2.0,Pure-Breed,Pure-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813673,Named,Other (TX),Stray,Injured,Dog,Intact Female,2.0,Pure-Breed,Pure-Color,Spayed Female,2.0,0.0,2020,2,2020,2,2018,2,0.0,Yes,0.33444816053511706
+A813672,Unnamed,Other (TX),Stray,Injured,Dog,Intact Male,2.0,Mixed-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,Yes,0.33444816053511706
+A813671,Named,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Pure-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,Yes,0.33444816053511706
+A813670,Named,Other (TX),Stray,Injured,Dog,Intact Male,2.0,Mixed-Breed,Mixed-Color,Neutered Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,Yes,0.33444816053511706
+A813669,Unnamed,Other (TX),Stray,Injured,Dog,Intact Male,2.0,Pure-Breed,Pure-Color,Neutered Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,Yes,0.33444816053511706
+A813665,Unnamed,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,Yes,0.33444816053511706
+A813664,Named,Austin (TX),Stray,Normal,Dog,Intact Male,0.75,Pure-Breed,Pure-Color,Neutered Male,0.75,0.0,2020,2,2020,2,2019,5,0.0,Yes,0.33444816053511706
+A813662,Named,Other (TX),Stray,Injured,Dog,Intact Female,14.0,Pure-Breed,Mixed-Color,Intact Female,14.0,0.0,2020,2,2020,2,2006,2,0.0,No,0.14641288433382138
+A813658,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Female,4.0,Mixed-Breed,Mixed-Color,Intact Female,4.0,0.0,2020,2,2020,3,2016,2,0.0,No,0.14641288433382138
+A813656,Named,Other (TX),Owner Surrender,Normal,Dog,Intact Female,4.0,Mixed-Breed,Mixed-Color,Intact Female,4.0,0.0,2020,2,2020,3,2016,2,0.0,No,0.14641288433382138
+A813655,Unnamed,Other (TX),Stray,Normal,Dog,Intact Male,0.07692307692307693,Pure-Breed,Mixed-Color,Intact Male,0.07692307692307693,0.0,2020,2,2020,2,2020,1,0.0,No,0.14641288433382138
+A813654,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,0.07692307692307693,Pure-Breed,Pure-Color,Intact Female,0.07692307692307693,0.0,2020,2,2020,2,2020,1,0.0,No,0.14641288433382138
+A813653,Unnamed,Other (TX),Stray,Normal,Dog,Intact Male,0.07692307692307693,Pure-Breed,Mixed-Color,Intact Male,0.07692307692307693,0.0,2020,2,2020,2,2020,1,0.0,No,0.14641288433382138
+A813652,Unnamed,Other (TX),Stray,Normal,Dog,Intact Male,0.07692307692307693,Pure-Breed,Mixed-Color,Intact Male,0.07692307692307693,0.0,2020,2,2020,2,2020,1,0.0,No,0.14641288433382138
+A813648,Named,Austin (TX),Owner Surrender,Normal,Other,Intact Male,2.0,Pure-Breed,Pure-Color,Intact Male,2.0,0.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813646,Unnamed,Other (TX),Stray,Normal,Dog,Intact Female,3.0,Pure-Breed,Pure-Color,Spayed Female,3.0,0.0,2020,2,2020,2,2017,2,0.0,Yes,0.33444816053511706
+A813644,Named,Austin (TX),Stray,Normal,Dog,Spayed Female,7.0,Pure-Breed,Pure-Color,Spayed Female,7.0,0.0,2020,2,2020,2,2013,2,0.0,No,0.14641288433382138
+A813641,Unnamed,Austin (TX),Wildlife,Normal,Other,Unknown,2.0,Pure-Breed,Mixed-Color,Unknown,2.0,1.0,2020,2,2020,2,2018,2,0.0,No,0.14641288433382138
+A813640,Unnamed,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Pure-Breed,Mixed-Color,Neutered Male,1.0,0.0,2020,2,2020,2,2019,2,0.0,No,0.14641288433382138

@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="Intake_Type_Wildlife <= 0.5\ngini = 0.152\nsamples = 700\nvalue = [642, 58]"] ;
+1 [label="Intake_Type_Euthanasia Request <= 0.5\ngini = 0.072\nsamples = 666\nvalue = [641, 25]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Sex_upon_Intake_Unknown <= 0.5\ngini = 0.062\nsamples = 661\nvalue = [640, 21]"] ;
+1 -> 2 ;
+3 [label="Intake_Condition_Injured <= 0.5\ngini = 0.044\nsamples = 624\nvalue = [610, 14]"] ;
+2 -> 3 ;
+4 [label="gini = 0.036\nsamples = 602\nvalue = [591, 11]"] ;
+3 -> 4 ;
+5 [label="gini = 0.236\nsamples = 22\nvalue = [19, 3]"] ;
+3 -> 5 ;
+6 [label="Animal_Type_Intake_Other <= 0.5\ngini = 0.307\nsamples = 37\nvalue = [30, 7]"] ;
+2 -> 6 ;
+7 [label="gini = 0.219\nsamples = 32\nvalue = [28, 4]"] ;
+6 -> 7 ;
+8 [label="gini = 0.48\nsamples = 5\nvalue = [2, 3]"] ;
+6 -> 8 ;
+9 [label="Sex_upon_Intake_Neutered Male <= 0.5\ngini = 0.32\nsamples = 5\nvalue = [1, 4]"] ;
+1 -> 9 ;
+10 [label="gini = 0.0\nsamples = 4\nvalue = [0, 4]"] ;
+9 -> 10 ;
+11 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]"] ;
+9 -> 11 ;
+12 [label="Intake_Condition_Nursing <= 0.5\ngini = 0.057\nsamples = 34\nvalue = [1, 33]"] ;
+0 -> 12 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+13 [label="gini = 0.0\nsamples = 33\nvalue = [0, 33]"] ;
+12 -> 13 ;
+14 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]"] ;
+12 -> 14 ;
+}
